@@ -1,0 +1,2412 @@
+i
+STANDAR NORMA DAN PENGATURAN NOMOR 3
+                    TENTANG
+   HAK ATAS KEBEBASAN BERKUMPUL DAN
+                BERORGANISASI
+
+
+
+
+KOMISI NASIONAL HAK ASASI MANUSIA REPUBLIK INDONESIA
+                        2020
+                   STANDAR NORMA DAN PENGATURAN NOMOR 3
+                                        TENTANG
+          HAK ATAS KEBEBASAN BERKUMPUL DAN BERORGANISASI
+
+
+
+
+Penanggung Jawab      : M. Choirul Anam
+Penulis               : Asri Oktavianty Wahono
+                       Delsy Nike
+                       Rima Purnama Salim
+                       Eko Dahana Djajakarta
+                       Mirza Buana
+                       Riza Imaduddin Abdali
+                       Muhamad Ananto Setiawan
+                       Ronald Rofiandri
+                       Wahyudi Djafar
+Foto                  : Komnas HAM RI
+Layout                : Komnas HAM RI
+
+
+
+
+Alamat Penerbit:
+Komisi Nasional Hak Asasi Manusia Republik (Komnas HAM RI)
+Jalan Latuharhary No. 4B Menteng, Jakarta Pusat 10310
+Telepon (021) 392 5230 Fax (021) 3922026
+Website       : www.komnasham.go.id
+Twitter       : @komnasham
+E-mail        : info@komnasham.go.id
+
+
+
+
+                                            i
+KATA PENGANTAR
+
+
+Komnas HAM RI sebagai lembaga mandiri setingkat dengan lembaga negara lainnya,
+mempunyai karakter kelembagaan yang imparsial dan independen dalam memberikan
+pemaknaan atas standar dan norma HAM. Sejauh ini, Komnas HAM RI telah mengesahkan
+SNP tentang Penghapusan Diskriminasi Ras dan Etnis (PDRE), SNP tentang Hak atas
+Kebebasan Beragama dan Berkeyakinan, dan SNP tentang Hak atas Kebebasan Berkumpul
+dan Berorganisasi (KKB).
+
+Standar Norma dan Pengaturan (SNP) Hak Asasi Manusia adalah dokumen yang merupakan
+penjabaran secara praktis dan implementatif berbagai instrumen HAM baik internasional dan
+nasional. SNP ini memberikan manfaat dalam memberikan penilaian, oleh karena norma-
+norma HAM juga terus berkembang secara dinamis, sehingga akan sesuai dengan konteks
+dan peristiwa. Dengan adanya SNP ini, standar norma HAM diharapkan mampu dipahami
+dan diimplementasikan secara baik, oleh pemangku hak, pengemban kewajiban, maupun
+aktor-aktor terkait.
+
+Sebagai lembaga yang memiliki karakter independen dan imparsial, Komnas HAM RI
+memiliki kewenangan berdasarkan Undang-Undang Nomor 39 Tahun 1999 tentang Hak
+Asasi Manusia untuk merekomendasikan pengemban kewajiban agar melaksanakan apa yang
+menjadi saran, pendapat, dan rekomendasi Komnas HAM RI. Di sinilah nilai penting terkait
+urgensi dan kemanfaatan dari SNP sebagai dokumen yang dikeluarkan oleh lembaga yang
+independen dan imparsial, sebagai panduan bagi pengemban kewajiban dalam menghormati,
+melindungi, dan memenuhi hak atas kebebasan berkumpul dan berorganisasi. Selain itu bagi
+pemegang hak adalah sebagai panduan dalam memaknai peristiwa yang berdimensi HAM
+dan mekanisme dalam mengklaim hak asasinya. Sedangkan bagi aktor-aktor lain yang
+berkepentingan, SNP menjadi koridor dan batasan agar segala tindakan dan aktivitasnya
+menghormati HAM dan tidak berkontribusi atas peristiwa pelanggaran HAM.
+
+Untuk selanjutnya, semoga dokumen SNP ini akan terus dimanfaatkan dan didiseminasikan
+secara luas demi mendorong situasi pelaksanaan HAM yang kondusif serta meningkatnya
+pemajuan, penegakan, dan perlindungan HAM bagi seluruh rakyat Indonesia.
+
+                        Komisi Nasional Hak Asasi Manusia RI
+                                        Ketua
+
+
+                               Ahmad Taufan Damanik
+
+
+
+
+                                           ii
+                                                          DAFTAR ISI
+
+
+Tim Penyusun ....................................................................................................................... i
+Kata Pengantar ..................................................................................................................... ii
+Daftar Isi ............................................................................................................................. iii
+I. Pendahuluan ....................................................................................................................... 1
+II. Pengertian dan Ruang Lingkup .......................................................................................... 4
+    A. Standar Norma dan Pengaturan ..................................................................................... 4
+    B. Kebebasan Berkumpul .................................................................................................. 5
+    C. Kebebasan Berorganisasi .............................................................................................. 6
+III. Prinsip-Prinsip Kebebasan Berorganisasi dan Berkumpul ................................................. 7
+IV. Standar Norma dan Pengaturan Kebebasan Berkumpul .................................................... 9
+    A. Peraturan Perundang-undangan ..................................................................................... 9
+    B. Bentuk-bentuk Kebebasan Berkumpul ........................................................................ 10
+    C. Hak Kelompok Minoritas dan Rentan atas Kebebasan Berkumpul............................... 12
+    D. Mekanisme Administratif............................................................................................ 14
+    E. Pengamanan untuk Menjamin Kebebasan Berkumpul ................................................. 16
+V. Standar Norma dan Pengaturan Kebebasan Berorganisasi ................................................ 17
+    A. Jaminan Peraturan Perundang-undangan ..................................................................... 17
+    B. Bentuk-bentuk Kebebasan Berorganisasi ..................................................................... 19
+    C. Hak untuk Tidak Berorganisasi ................................................................................... 20
+    D. Hak Buruh dalam Berorganisasi .................................................................................. 20
+    E. Hak Berorganisasi Kelompok Minoritas ...................................................................... 22
+    F. Mekanisme Administratif ............................................................................................ 23
+    G. Izin Prinsip dan Operasional Organisasi Nirlaba Asing ............................................... 24
+    H. Tim Pengawas/Penilai Organisasi ............................................................................... 25
+    I. Pembubaran Organisasi ................................................................................................ 26
+VI. Pembatasan Kebebasan Berkumpul dan Berorganisasi ................................................... 28
+    A. Pembatasan Kebebasan Berkumpul ............................................................................. 28
+    B. Pembatasan Kebebasan Berorganisasi ......................................................................... 29
+
+
+
+                                                                    iii
+VII. Uji Proporsionalitas ...................................................................................................... 36
+    A. Uji Proporsionalitas Berkumpul .................................................................................. 36
+    B. Uji Proporsionalitas Berorganisasi .............................................................................. 38
+VIII. Kewajiban Negara ....................................................................................................... 40
+IX. Kewenangan Komnas HAM RI ...................................................................................... 43
+
+     Lampiran ...................................................................................................................... 47
+
+
+
+
+                                                                 iv
+          STANDAR NORMA DAN PENGATURAN NOMOR 3
+                         TENTANG
+     HAK ATAS KEBEBASAN BERKUMPUL DAN BERORGANISASI 1
+
+
+                                I.   PENDAHULUAN
+
+1.   Pengaturan tentang hak atas kebebasan berkumpul dan berorganisasi di Indonesia
+     dipengaruhi oleh karakter rezim -- demokratis atau otoritarian. Pada era Orde Baru,
+     pemerintah mengendalikan organisasi masyarakat sipil melalui Undang-Undang Nomor
+     8 Tahun 1985 tentang Organisasi Kemasyarakatan. Melalui undang-undang ini
+     pemerintah melahirkan entitas baru yang sebelumnya tidak pernah dikenal dalam
+     pengaturan kebebasan berkumpul dan berorganisasi di Indonesia, yaitu organisasi
+     kemasyarakatan (ormas). Kewajiban penggunaan Pancasila sebagai asas tunggal bagi
+     organisasi kemasyarakatan mengaburkan batas antara negara dan masyarakat sehingga
+     memberikan ruang yang luas bagi kooptasi negara kepada masyarakat (state
+     coorporatisme).
+
+2.   Sampai saat ini, pemerintah masih menjadikan pendaftaran atau registrasi organisasi
+     sebagai bentuk pengakuan dan keabsahan. Organisasi yang tidak terdaftar akan
+     mendapat stigma sebagai organisasi ilegal atau liar, mengalami hambatan dalam
+     menjalankan kegiatan, dibatasi akses terhadap sumber daya negara, kriminalisasi
+     terhadap anggota atau simpatisannya, hingga pencabutan izin atau pembubaran
+     organisasi tersebut. Saat ini, pemerintah memiliki wewenang untuk membubarkan suatu
+     organisasi tanpa melalui proses peradilan dengan menggunakan asas contrarius actus.
+
+3.   Dalam konteks hak atas kebebasan berkumpul dan berorganisasi, nilai-nilai ketuhanan,
+     moralitas publik, dan kepantasan yang partikularistik dalam Pancasila sering kali
+     dijadikan alasan pembatasan oleh pemerintah. Agar tidak terus berulang, nilai-nilai
+
+      1 Standar Norma dan Pengaturan tentang Hak atas Kebebasan Berkumpul
+
+dan Berorganisasi disahkan melalui Keputusan Sidang Paripurna
+No.05/SP/III/2020 Tanggal 3 Maret 2020 pada Putusan Nomor 16 dan
+ditetapkan dalam Peraturan Komnas HAM RI No. 6 Tahun 2020 Tanggal 28
+September 2020
+
+1                                                   Standar Norma dan Pengaturan Nomor 3
+                                                    Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     keluhuran Pancasila harus dimaknai sebagai ideologi yang terbuka (inklusif),
+     berperikemanusiaan, dan berkeadilan sosial. Nilai-nilai dalam Pancasila perlu dimaknai
+     dalam paradigma toleransi, moderat, dan anti-diskriminasi.
+
+4.   Sering kali terjadi pelanggaran, dan memiliki potensi keberulangan, atas kebebasan
+     berkumpul. Situasi ini terjadi karena pihak kepolisian menjadikan pemberitahuan di
+     muka sebagai bentuk perizinan kegiatan. Hal ini menjadikan pihak kepolisian masih
+     sering menolak menerbitkan tanda terima pemberitahuan kepada pengunjuk rasa dengan
+     alasan bahwa aksi tersebut melanggar ketertiban umum. Bahkan, pihak kepolisian juga
+     dapat membubarkan acara berkumpul, seperti acara diskusi, pemutaran film, dan
+     demonstrasi, dengan alasan tidak menyampaikan pemberitahuan, tidak memiliki izin
+     keramaian, atau bakal mengganggu ketertiban umum.
+
+5.   Secara sederhana, organisasi, perkumpulan, asosiasi, atau serikat didefinisikan sebagai
+     kelompok terorganisasi yang independen dan nirlaba, yang anggotanya berkumpul
+     secara sukarela berdasarkan kepentingan, kegiatan, atau tujuan bersama. Entitas ini
+     seringkali mengacu pada kelompok orang yang bersama-sama bertindak kolektif guna
+     mengungkapkan, mempromosikan, mengejar atau mempertahankan kepentingan
+     bersama. 2 Suatu organisasi, perkumpulan, asosiasi, atau serikat tidak harus merupakan
+     badan hukum, tetapi mensyaratkan bentuk atau struktur kelembagaan.
+
+6.   Menurut instrumen HAM internasional, pengertian asosiasi atau serikat adalah mengacu
+     antara lain pada organisasi masyarakat sipil, klub, koperasi, lembaga swadaya
+     masyarakat, perkumpulan keagamaan, partai politik, serikat buruh, yayasan atau bahkan
+     perkumpulan online yang memfasilitasi warga negara untuk aktif berpartisipasi dalam
+     membangun masyarakat demokratis3. Instrumen ini menyebutkan, tidak boleh ada aturan
+     yang memaksa suatu organisasi atau asosiasi, harus bebas untuk memilih anggota, dan
+     harus terbuka untuk setiap keanggotaan. Campur tangan negara akan membahayakan
+     independensi organisasi. 4
+
+7.   Perlindungan hak atas kebebasan berkumpul secara damai diwujudkan antara lain
+     melalui bentuk atau mekanisme pemberitahuan di muka. Bentuk dan mekanisme ini
+     tidak menimbulkan wewenang otoritas negara untuk memberikan persetujuan sejalan
+
+
+      2 Dokumen A/50/401, Human rights defenders, Note by the UN Secretary-
+
+General.
+
+        Report of the Special Rapporteur on the promotion and protection of
+         3
+
+the right to freedom of opinion and expression, Frank La Rue
+(A/HRC/17/27).
+
+      4 Report of the Special Rapporteur on the rights to freedom of
+peaceful assembly and of association, Maina Kiai (A/HRC/20/27).
+
+
+Standar Norma dan Pengaturan Nomor 3                                                      2
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     dengan prinsip praduga baik.5 Prinsip ini ditujukan terhadap kegiatan-kegiatan
+     nirkekerasan dan bukan dalam rangka melakukan tindak kejahatan. Dewan HAM PBB
+     tetap menganggap persyaratan untuk menyampaikan pemberitahuan di muka sebagai
+     gangguan de facto terhadap hak atas kebebasan berkumpul secara damai.
+
+8.   Sebagai suatu hak, kebebasan berorganisasi dan berkumpul berakar dari kehendak
+     bangsa Indonesia untuk mewujudkan negara demokratis yang berperikemanusiaan dan
+     berkeadilan sosial. Pasal 28C ayat (2) Undang-Undang Dasar Negara Republik
+     Indonesia Tahun 1945 (UUD RI 1945) menentukan bahwa setiap orang berhak untuk
+     memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun
+     masyarakat, bangsa, dan negaranya. Perjuangan hak secara kolektif ini selanjutnya
+     ditegaskan dalam Pasal 28E ayat (3) UUD RI 1945 yang menjamin kemerdekaan
+     berserikat dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan.
+
+9.   Pengaturan oleh negara terhadap hak atas kebebasan berkumpul dan berorganisasi
+     terdapat dalam beberapa undang-undang, yaitu: (1). Undang-Undang Nomor 9 Tahun
+     1998 tentang Kemerdekaan Menyampaikan Pendapat di Muka Umum; (2). Undang-
+     Undang Nomor 21 Tahun 2000 tentang Serikat Pekerja/Serikat Buruh; (3). Undang-
+     Undang Nomor 16 Tahun 2001 tentang Yayasan dan Undang-Undang Nomor 28 Tahun
+     2004 tentang Perubahan atas Undang-Undang Nomor 16 Tahun 2001 tentang Yayasan;
+     dan (4) Undang-Undang Nomor 17 Tahun 2013 tentang Organisasi Kemasyarakatan dan
+     Undang-Undang Nomor 16 Tahun 2017 tentang Penetapan Peraturan Pemerintah
+     Pengganti Undang-Undang Nomor 2 Tahun 2017 tentang Perubahan atas Undang-
+     Undang Nomor 17 Tahun 2017 tentang Organisasi Kemasyarakatan menjadi Undang-
+     Undang.
+
+10. Standar Norma dan Pengaturan tentang Hak atas Kebebasan Berkumpul dan
+    Berorganisasi dibentuk berdasarkan respon terhadap semakin maraknya tindakan represif
+    dari negara dan aktor non-negara yang menjadi ancaman serius terhadap penikmatan hak
+    atas kebebasan berkumpul dan berorganisasi di Indonesia. 6 Dokumen ini merupakan
+    salah Standar Norma dan Pengaturan yang dibentuk oleh Komisi Nasional Hak Asasi
+    Manusia Republik Indonesia (Komnas HAM RI) berdasarkan kebutuhan atas
+
+
+      5 UN Human Rights Council, First Thematic Report of the Special
+Rapporteur on the rights to freedom of peaceful assembly and of
+association, Maina Kiai, UN Doc. A/HRC/20/27, 21 May 2012, p. 25; OSCE-
+ODIHR and Venice Commission, Guidelines on Freedom of Peaceful Assembly,
+2nd edn, 2010, Explanatory Notes, p. 25.
+      6 Beberapa kasus, sebagai contoh adalah: Pembubaran Festival Belok
+
+Kiri, Pembubaran Seminar Sejarah 65 di LBH Jakarta, Penangkapan dan
+penahanan   terhadap   mahasiswa   dan   aktivis Papua  yang  bergabung,
+mengorganisir, atau berencana untuk berpartisipasi dalam protes dan
+pertemuan lainnya, dan Pembubaran HTI melalui penerapan asas contrarius
+actus dalam Perppu Ormas.
+
+3                                                  Standar Norma dan Pengaturan Nomor 3
+                                                   Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     pemaknaan, penilaian, dan petunjuk atas kaidah-kaidah dan peristiwa hak asasi manusia
+     yang terjadi di masyarakat.
+
+11. Penyusunan Standar Norma dan Pengaturan tentang Hak atas Kebebasan Berkumpul dan
+    Berorganisasi berawal dari proses audiensi Koalisi Kebebasan Berserikat (KKB) dengan
+    Komnas HAM RI terkait “Lima Tahun Laporan Monitoring dan Evaluasi Implementasi
+    UU Ormas” dan berbagai hasil kajian mengenai UU Ormas. Isu-isu yang berkembang
+    selama audiensi lebih lanjut dibahas dalam rapat-rapat Subkomisi Pemajuan HAM
+    Bidang Pengkajian dan Penelitian Komnas HAM RI. Berdasarkan hasil rapat-rapat
+    tersebut, Komnas HAM RI membentuk tim yang bertugas menyusun Rancangan Standar
+    Norma dan Pengaturan tentang Hak atas Kebebasan Berkumpul dan Berorganisasi.
+
+12. Draf awal Rancangan Standar Norma dan Pengaturan tentang Hak atas Kebebasan
+    Berkumpul dan Berorganisasi yang dihasilkan, lalu dikritisi oleh beberapa ahli dalam
+    beberapa focus group discussion. Setelah dilakukan revisi, draf tersebut selanjutnya
+    dikonsultasikan kepada publik guna mendapatkan masukan. Konsultasi publik dilakukan
+    melalui publikasi pada website Komnas HAM RI, penyampaian surat ke berbagai
+    lembaga dan instansi, dan penyelenggaraan kegiatan di beberapa daerah. Konsultasi
+    publik menghasilkan draf akhir Rancangan Standar Norma dan Pengaturan tentang Hak
+    atas Kebebasan Berkumpul dan Berorganisasi. Draf tersebut kemudian dibahas dan telah
+    disahkan dalam Sidang Paripurna Komnas HAM RI pada 3 Maret 2020.
+
+13. Standar Norma dan Pengaturan tentang Hak atas Kebebasan Berkumpul dan
+    Berorganisasi ini terdiri atas 9 (sembilan) tema, yaitu: (1). Pendahuluan; (2). Pengertian
+    dan Ruang Lingkup; (3). Prinsip-Prinsip Kebebasan Berkumpul dan Berorganisasi; (4).
+    Standar Norma dan Pengaturan Kebebasan Berkumpul; (5). Standar Norma dan
+    Pengaturan Kebebasan Berorganisasi; (6). Pembatasan Kebebasan Berkumpul dan
+    Berorganisasi; (7). Uji Proporsionalitas; (8). Kewajiban Negara; dan (9). Kewenangan
+    Komisi Nasional Hak Asasi Manusia RI.
+
+                          II.      PENGERTIAN DAN RUANG LINGKUP
+
+A. Standar Norma dan Pengaturan
+
+14. Norma adalah kaidah, aturan, atau ketentuan yang mengikat orang perseorangan atau
+    kelompok dalam penikmatan terhadap hak atas kebebasan berkumpul dan berorganisasi
+    yang digunakan sebagai panduan, tatanan, dan pengendali tingkah laku yang sesuai dan
+    berterima, dan sebagai tolak ukur menilai atau memperbandingkan sesuatu.
+
+15. Pengaturan adalah penjelasan, tafsiran, dan elaborasi atas norma sebagai acuan
+    pelaksanaan dalam menentukan bentuk pembatasan dan/atau perlanggaran hak atas
+    kebebasan berkumpul dan berorganisasi, dan menilai peraturan perundang-undangan,
+
+Standar Norma dan Pengaturan Nomor 3                                                        4
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+    kebijakan, atau tindakan dalam penikmatan terhadap hak atas kebebasan berkumpul dan
+    berorganisasi.
+
+16. Tujuan penyusunan Standar Norma dan Pengaturan tentang Hak atas Kebebasan
+    Berkumpul dan Berorganisasi adalah:
+    a. memberikan pedoman kepada aparat negara untuk memastikan tidak adanya
+       kebijakan dan tindakan pembatasan dan/atau pelanggaran terhadap hak atas
+       kebebasan berkumpul dan berorganisasi sejak perencanaan, pengaturan, hingga
+       pelaksanaan, dan memastikan dilakukannya proses hukum dan pemberian sanksi bagi
+       pelaku pelanggaran terhadap hak atas kebebasan berkumpul dan berorganisasi;
+
+    b. memberikan pedoman kepada orang perseorangan, dan kelompok orang - seperti
+       partai politik, organisasi masyarakat sipil, serikat buruh, organisasi keagamaan,
+       organisasi kepemudaan, dan kelompok orang lainnya - agar memahami segala aspek
+       tindakan pelanggaran hak atas kebebasan berkumpul dan berorganisasi untuk bisa
+       memastikan hak asasinya terlindungi, dan tidak melakukan tindakan diskriminatif
+       yang dapat memperkecil ruang masyarakat sipil; dan
+
+    c. memberikan pedoman kepada aktor non-negara untuk menghormati hak masyarakat
+       dengan cara menghindari tindakan yang membatasi hak atas kebebasan berkumpul
+       dan berorganisasi.
+
+B. Kebebasan Berkumpul
+
+17. Hak atas kebebasan berkumpul adalah hak untuk berkumpul dalam rangka
+    mengekspresikan, mempromosikan, dan/atau membela kepentingan bersama. 7
+
+18. Hak atas kebebasan berkumpul adalah milik orang perseorangan atau kelompok orang,
+    misalnya kelompok minoritas, yang memiliki pendapat yang berbeda atau melakukan
+    advokasi atas isu-isu sensitif, pembela hak asasi manusia, kelompok marjinal, buruh
+    migran, serikat pekerja, dan/atau kelompok lainnya yang menggunakan dan/atau
+    mempromosikan hak atas kebebasan berkumpul. 8
+
+19. Kegiatan berkumpul yang dilakukan tidak secara damai adalah jika selama proses
+    berkumpul terdapat:
+    a. ancaman terhadap hak-hak orang lain;
+
+       7Jeremy McBride, Freedom of Association, dalam The Essentials of
+Human Rights (Hodder Arnold: London, 2005), hlm. 18–20.
+
+       8Kiai, Maina. Report of the Special Rapporteur on the rights to
+freedom of peaceful assembly and of association, A/HRC/26/29, 14 April
+2014.
+
+
+5                                                  Standar Norma dan Pengaturan Nomor 3
+                                                   Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+    b. propaganda untuk perang; dan/atau
+    c. anjuran kebencian yang merupakan hasutan untuk melakukan diskriminasi,
+       permusuhan, dan/atau kekerasan yang bertentangan dengan semangat kemanusiaan
+       dan hukum. 9
+
+20. Setiap orang tidak dapat dibatasi haknya untuk berkumpul secara damai, termasuk yang
+    tergabung dalam kelompok yang dibatasi haknya itu akibat tindakan kekerasan dan/atau
+    tindakan lain yang berpotensi membatasi hak atas kebebasan berkumpul. 10
+
+21. Pembatasan terhadap hak atas kebebasan berkumpul, tidak menghilangkan hak setiap
+    orang atas hak lainnya.
+
+22. Setiap kegiatan berkumpul wajib untuk dilindungi. 11
+
+C. Kebebasan Berorganisasi
+
+23. Hak atas kebebasan berorganisasi adalah hak yang bersifat individual dan kolektif.
+
+24. Berdasarkan Deklarasi Umum Hak Asasi Manusia (DUHAM) 1948 dan Kovenan
+    Internasional tentang Hak-hak Sipil dan Politik (KIHSP), kebebasan berorganisasi
+    merupakan salah satu hak yang tidak boleh diintervensi oleh negara dan/atau pihak lain.
+
+25. Berdasarkan Pasal 20 DUHAM dan Pasal 22 ayat (1) KIHSP, ruang lingkup hak atas
+    kebebasan berorganisasi meliputi hak untuk membentuk organisasi, dan bergabung dalam
+    organisasi. Hak berorganisasi menjamin perlindungan atas kebebasan dalam memilih
+    organisasi yang diiinginkan oleh setiap orang. Setiap orang dilarang melakukan tindakan
+    pemaksaan untuk mengikuti suatu organisasi.
+
+26. Kebebasan berorganisasi berfungsi sebagai salah satu alat untuk melaksanakan hak-hak
+    sipil, politik, ekonomi, sosial, dan budaya. Hak atas kebebasan berorganisasi merupakan
+    komponen penting bagi demokrasi karena memberdayakan setiap orang                 untuk
+    mengekspresikan pendapat; terlibat dalam kegiatan sastra, seni, budaya, ekonomi dan
+
+
+         9   UU No 12 Tahun 2005 tentang Ratifikasi ICCPR, Pasal 19 dan 20.
+
+      10 Lihat, Putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam
+kasus Ziliberberg v. Moldova, 4 May 2004.
+
+      11 UN Human Rights Council, Joint report of the Special Rapporteur on
+the rights to freedom of peaceful assembly and of association and the
+Special Rapporteur on extrajudicial, summary or arbitrary executions on
+the proper management of assemblies, UN Doc. A/HRC/31/66, 4 February 2016,
+para. 9.
+
+
+Standar Norma dan Pengaturan Nomor 3                                                      6
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+    sosial, ibadah agama atau keyakinan; membentuk dan bergabung dengan serikat buruh
+    dan koperasi; dan memilih pihak yang bertanggungjawab mewakili kepentingan mereka.
+
+27. Perlindungan terhadap kebebasan berorganisasi juga diberikan kepada anak-anak,
+    masyarakat adat, penyandang disabilitas, orang yang tergolong kelompok minoritas atau
+    rentan, korban diskriminasi karena orientasi seksual dan identitas gender, non-warga
+    negara, orang-orang tanpa kewarganegaraan, pengungsi atau imigran, dan organisasi atau
+    kelompok-kelompok yang tidak terdaftar.
+
+28. Di Indonesia, kebebasan berorganisasi telah diakui sebagai bagian dari hak konstitusional
+    warga negara, sebagaimana dijamin oleh Pasal 28E ayat (3) UUD RI 1945. Namun,
+    rumusan Konstitusi belum detail mengatur cakupan perlindungan atas kebebasan,
+    termasuk alasan dan mekanisme pembatasannya. Jika mengacu pada hukum internasional
+    hak asasi manusia, pembatasan hak hanya boleh berdasar klausul pembatas pada hak
+    tersebut, bukan menggunakan rumusan pasal penutup yang menjadi acuan pembatasan
+    dari keseluruhan hak yang dijamin. Pasal 28 UUD RI 1945 mengatakan bahwa
+    pelaksanaan kebebasan ini akan diatur dengan undang-undang. Hal inilah yang
+    memunculkan multi tafsir atas ruang lingkup dari kebebasan berorganisasi dan alasan
+    pembatasannya. Praktik-praktik terbaik dalam hukum internasional hak asasi manusia
+    menekankan untuk tidak memaksakan suatu rezim peraturan khusus pada beragam
+    bentuk organisasi.
+
+                         III. PRINSIP-PRINSIP
+                 KEBEBASAN BERKUMPUL DAN BERORGANISASI
+
+29. Terdapat dua prinsip utama yang harus menjadi acuan terkait kebebasan berkumpul dan
+    berorganisasi, yaitu prinsip non-diskriminasi dan prinsip proporsionalitas. Prinsip non-
+    diskriminasi melarang diskriminasi baik langsung maupun tidak langsung yang
+    mensyaratkan bahwa semua orang menerima perlindungan hukum yang setara dan tidak
+    boleh didiskriminasi sebagai akibat dari penerapan praktis tindakan apa pun. Setiap orang
+    dan kelompok yang ingin membentuk organisasi harus mendapat perlakuan yang sama di
+    hadapan hukum. Prinsip non-diskriminasi juga berarti bahwa undang-undang dan otoritas
+    negara harus memperlakukan organisasi secara adil berkenaan dengan peraturan tentang
+    pendirian, pendaftaran (jika berlaku), dan kegiatannya. Perlakuan berbeda terhadap
+    organisasi bersifat diskriminatif jika tidak memiliki tujuan dan alasan yang wajar. Prinsip
+    non-diskriminasi untuk kelompok minoritas erat kaitannya dengan prinsip negara hukum
+    (rule of law), yang dalam salah satu prinsipnya menekankan asas kesetaraan di hadapan
+    hukum (equality before the law). Setiap orang memiliki hak atas kebebasan berkumpul
+    secara damai dan berorganisasi. Kelompok rentan berhak mendapatkan perlindungan
+    hukum yang efektif, tidak bias, dan berperspektif afirmasi. 12
+
+       12   The International Covenant on Civil and Political Rights (ICCPR),
+
+7                                                      Standar Norma dan Pengaturan Nomor 3
+                                                       Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+30. Prinsip proposionalitas bertujuan untuk memastikan penggunaan kewenangan negara
+    dalam pelaksanaan kebebasan dasar tidak melebihi batas-batas kebutuhan dalam
+    masyarakat demokratis; menuntut keseimbangan yang wajar antara semua kepentingan
+    yang berlawanan; dan memastikan bahwa cara yang dipilih adalah yang paling tidak
+    membatasi untuk melayani kepentingan tersebut. Sebagai contoh, larangan atau
+    pembubaran tidak boleh digunakan untuk mengatasi pelanggaran kecil.
+
+31. Negara wajib memerhatikan asas keseimbangan saat terdapat kepentingan yang saling
+    berhadapan dengan kebebasan berkumpul dan berorganisasi; negara wajib menjaga
+    keselamatan publik dan ketertiban umum, tanpa mengurangi hak warga negara dalam
+    berekpresi dan berkumpul. Otoritas negara berfungsi sebagai fasilitator aktif dan
+    pengamat pasif dari aktivitas berkumpul dan berorganisasi. Penghormatan dan
+    perlindungan terhadap kebebasan setiap orang harus ditempatkan sebagai aturan/norma.
+    Pembatasan (limitation) atas kebebasan harus dimaknai sebagai pengecualian dari
+    kebebasan itu sendiri. Pembatasan harus dimaknai dalam bingkai negara hukum (rule of
+    law) dan demokrasi.
+
+32. Aparat keamanan berperan sebagai fasilitator aktif, yakni memberikan kemudahan akses,
+    sarana-prasarana pendukung, dan perlindungan bagi setiap individu atau kelompok
+    sebelum dan selama kegiatan berkumpul dilakukan.
+
+33. Aparat keamanan berperan sebagai pengamat pasif, yakni melakukan pengawasan selama
+    kegiatan berkumpul; teliti dan cermat dalam melakukan penilaian kondisi dan sigap
+    dalam memberi bantuan/penanganan selama kegiatan berkumpul berlangsung. Setiap
+    tindakan kepolisian dalam pengawasan kegiatan berkumpul harus disertai laporan sebagai
+    wujud akuntabilitas dan laporan kegiatan pengawasan harus dapat diakses oleh publik
+    untuk kepentingan hukum.
+
+34. Pembatasan dalam wujud pelarangan terhadap kebebasan berkumpul dan berorganisasi
+    tidak boleh dilakukan dengan alasan karena kelompok minoritas memiliki pandangan
+    berbeda dengan pihak pemerintah atau kelompok mayoritas.
+
+35. Negara wajib mengakui dan memberikan perlindungan terhadap hak berorganisasi setiap
+    warga negara tanpa dibatasi dengan pilihan jenis organisasinya, baik berbadan hukum
+    (seperti yayasan dan perkumpulan) maupun yang tidak berbadan hukum.
+
+36. Negara wajib bertanggung jawab secara positif (positive responsibility) guna menjamin
+    kebebasan positif ataupun negatif warga negara dengan mengurangi semua bentuk
+    pembatasan. Bila pembatasan memang diperlukan, harus dengan parameter yang jelas,
+
+
+Pasal 14.
+
+Standar Norma dan Pengaturan Nomor 3                                                    8
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     obyektif, dan memfasilitasi segala bentuk ekspresi masyarakat dalam berkumpul dan
+     berorganisasi dengan menjunjung tinggi asas praduga tidak bersalah dan kesamaan di
+     hadapan hukum
+
+37. Warga negara memiliki dua dimensi kebebasan. Pertama adalah kebebasan positif yang
+    bermakna bahwa setiap warga negara bebas secara aktif untuk mengekspresikan pendapat
+    politiknya, terutama dalam kegiatan berkumpul. Namun, kebebasan tersebut tetap harus
+    memperhatikan pembatasan-pembatasan sebagai pengecualian dari kebebasannya. Kedua
+    adalah kebebasan negatif yang bermakna hadirnya jaminan konstitusional dari
+    negara/pemerintah terhadap ekpresi dan aspirasi politik warga negara. Negara/pemerintah
+    wajib memastikan warga negara bebas dari intimidasi, tekanan pihak lain, dan/atau
+    pelarangan dari aparat yang dilakukan secara semena-mena.
+
+38. Negara wajib memfasilitasi adanya kerjasama atau kemitraan antara organisasi lokal
+    dengan organisasi nirlaba asing. Negara tidak boleh mengesampingkan relasi yang
+    muncul karena adanya situasi saling membutuhkan dan kerja sama yang saling
+    menguntungkan, dalam jangka pendek maupun jangka panjang, antara organisasi lokal
+    dengan organisasi nirlaba asing.
+
+    IV.   STANDAR NORMA DAN PENGATURAN KEBEBASAN BERKUMPUL
+
+A. Peraturan Perundang-undangan
+
+39. Pasal 28E ayat (3) UUD RI 1945 memberikan ketentuan bahwa kemerdekaan berserikat
+    dan berkumpul, mengeluarkan pikiran dengan lisan dan tulisan, dan sebagainya
+    ditetapkan dengan undang-undang. Pasal 28C ayat (2) UUD RI 1945 menentukan bahwa
+    setiap orang berhak untuk memajukan dirinya dalam memperjuangkan haknya secara
+    kolektif untuk membangun masyarakat, bangsa, dan negaranya. Pasal 28F UUD RI 1945
+    menentukan bahwa setiap orang berhak untuk berkomunikasi dan memperoleh informasi
+    untuk mengembangkan pribadi dan lingkungan sosialnya, serta berhak untuk mencari,
+    memperoleh, memiliki, menyimpan, mengolah, dan menyampaikan informasi dengan
+    menggunakan segala jenis saluran yang tersedia.
+
+40. Pasal 24 ayat (1) Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia
+    (UU HAM), menentukan bahwa setiap orang berhak untuk berkumpul, berapat, dan
+    berserikat yang diselenggarakan untuk maksud-maksud damai. Setiap orang dijamin
+    haknya untuk menikmati hak atas kebebasan berkumpul yang dimiliki sepanjang
+    penikmatan atas hak tersebut diselenggarakan dengan niat untuk tujuan damai dan
+    mengedepankan prinsip-prinsip non-kekerasan. Lebih spesifik, Undang-Undang Nomor 9
+    Tahun 1998 mengatur tentang Kemerdekaan Menyampaikan Pendapat di Muka Umum.
+
+
+
+9                                                    Standar Norma dan Pengaturan Nomor 3
+                                                     Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+41. Politik hukum UUD RI 1945 memberi kewajiban kepada pemerintah pusat/daerah untuk
+    menempatkan kebebasan berkumpul setiap orang sebagai suatu hak yang harus dijamin
+    oleh hukum. Pembatasan (limitation) dan pengurangan (derogation) atas kebebasan harus
+    dimaknai sebagai pengecualian dari kebebasan itu sendiri. Pembatasan harus dimaknai
+    dalam bingkai negara hukum (rule of law) dan demokrasi.
+
+B. Bentuk-Bentuk Kebebasan Berkumpul
+
+42. Konsep ‘berkumpul’ mencakup berbagai jenis berkumpul, baik di tempat umum atau
+    pribadi maupun statis atau bergerak. Adapun contoh-contoh pertemuan yang telah diakui
+    oleh mahkamah dan mekanisme internasional, yaitu demonstrasi, 13 pemogokan,14
+    pawai, 15aksi unjuk rasa,16 aksi duduk, 17 blokade jalan, 18 pertemuan atau rapat di tempat-
+    tempat yang dimiliki secara pribadi, 19 pendudukan bangunan,20 dan pembacaan
+    pernyataan sikap bersama. 21
+
+43. Kegiatan berkumpul mendadak (spontaneous assembly) merupakan suatu aktifitas
+    berkumpul yang terjadi dalam konteks merespon suatu tindakan dan/atau kebijakan
+    pemerintah yang memerlukan respon segera dan cepat. Kegiatan berkumpul mendadak
+
+         13
+         Lihat, Pendapat Komite Hak Asasi Manusia dalam kasus Alekseev v.
+Pemerintah Federasi Rusia, 25 Oktober 2013, Doc PBB CCPR/C/109/D/1873/2009
+dan putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam kasus
+Galstyan v. Pemerintah Armenia, 15 November 2007.
+      14 Lihat, pendapat Komite Hak Asasi Manusia dalam kasus Gelina Youbko
+v. Pemerintah Belarusia, 24 April 2014, Doc. PBB CCPR/C/110/D/1903/2009
+dan putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam kasus
+Shmushkovych v. Pemerintah Ukraina, 14 November 2013.
+
+         15
+         Lihat, putusan Komisi Hak Asasi Manusia Eropa (EComHR) dalam kasus
+Christians against Racism dan Facism v. Pemerintah Inggris, 16 Juli 1980.
+
+         16
+         Lihat, putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam
+kasus Kasparov v. Pemerintah Rusia, 11 Oktober 2016.
+
+         17
+         Lihat, putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam
+kasus Çiloğlu dan lainnya v. Pemerintah Turki, 6 Maret 2007.
+
+         18
+         Lihat, putusan Kamar Agung Pengadilan Hak Asasi Manusia Eropa
+(ECtHR) dalam kasus Kudrevičius dan lainnya v. Pemerintah Lituania, 15
+Oktober 2015.
+
+         19
+         Lihat, putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam
+kasus Emin Huseynov v. Pemerintah Azerbaijan, 7 Mei 2015.
+
+         20
+         Lihat, putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam
+kasus Cissév. Pemerintah Prancis, 9 April 2002.
+
+         21
+         Lihat, putusan Pengadilan Hak Asasi Manusia Eropa (ECtHR) dalam
+kasus Oya Ataman v. Pemerintah Turki, 5 Desember 2006.
+
+
+Standar Norma dan Pengaturan Nomor 3                                                         10
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     tidak dapat ditunda, karena berkaitan dengan konteks kejadian yang perlu segera direspon
+     oleh masyarakat (the triggering event). Kegiatan berkumpul mendadak harus
+     mendapatkan pengecualian dari kewajiban dan prosedur pemberitahuan kepada pihak
+     kepolisian. Pemerintah wajib memfasilitasi kegiatan berkumpul mendadak dalam rangka
+     menjaga atmosfer demokrasi. 22
+
+44. Kegiatan berkumpul balasan (counter assembly) merupakan hak setiap orang yang
+    merasa perlu menyuarakan ketidaksetujuan mereka terhadap pesan yang disampaikan
+    oleh kegiatan berkumpul yang lain. Aparat keamanan harus memahami bahwa kedua
+    belah pihak memiliki hak yang sama untuk berkumpul dan menyampaikan pesan mereka,
+    sehingga perlu difasilitasi dan memastikan bahwa ‘pesan dialogis’ antara keduanya
+    tersampaikan dengan baik. Untuk memastikan ‘pesan dialogis’ tersampaikan oleh kedua
+    belah pihak, kepolisian harus memberi pengecualian kepada kelompok berkumpul
+    balasan dari proses dan prosedur pemberitahuan. Dinamika antara keduanya, selama tidak
+    menjurus pada eskalasi kekerasan fisik, wajib dijaga oleh aparat kepolisian tanpa
+    tindakan reaktif untuk membubarkan. Kewajiban aparat kepolisian untuk menfasilitasi
+    kedua atau lebih kelompok tersebut adalah manifestasi penghormatan terhadap kondisi
+    dinamis demokrasi. 23
+
+45. Kegiatan berkumpul untuk menghalangi secara damai (peaceful assembly with
+    obstruction) adalah kegiatan berkumpul yang bertujuan menghalangi suatu perbuatan
+    atau tindakan yang menjadi sasaran kebebasan berpendapatnya. Tindakan menghalangi
+    tersebut tidak selalu dapat dimaknai kegiatan berkumpul yang tidak damai. Untuk
+    menghindari eskalasi kekerasan atau pergesekan fisik, panitia penyelenggara wajib
+    menyampaikan pemberitahuan kepada kepolisian agar kegiatan tersebut dapat difasilitasi
+    dan diamankan oleh aparat. Kepolisian berkewajiban menjaga dan menghindari tindakan
+    reaktif terhadap peserta kegiatan berkumpul. 24
+
+46. Kegiatan berkumpul yang diselenggarakan secara terus-menerus dan terjadwal
+    (scheduled assembly) merupakan wujud kesadaran demokrasi masyarakat terhadap suatu
+    tindakan, kebijakan dan peristiwa yang dinilai melanggar nilai-nilai demokrasi dan
+    prinsip negara hukum. Panitia kegiatan berkumpul hanya perlu melakukan
+    pemberitahuan sekali saat pertama melakukan kegiatan berkumpul, tanpa perlu berulang
+    kali melaporkan kegiatan berkumpul setiap saat. Kepolisian harus memfasilitasi dan
+
+
+        22Moldova’s Law on Public Assembly, (2008), Pasal 3. Lihat juga,
+Armenia’s    Law   on  Conducting   Meetings,  Assemblies,  Rallies   and
+Demonstrations (2008), Pasal 10 (1).
+      23 Arzte fur das Leben v. Austria, 21 June 1988, The European Court
+of Human Rights.
+
+        24
+         Karpyuk and Others v. Ukraine, 5 October 2015, The European Court
+of Human Rights.
+
+11                                                    Standar Norma dan Pengaturan Nomor 3
+                                                      Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+    menjaga kegiatan berkumpul tersebut tanpa tindakan reaktif dan diskriminatif terhadap
+    pelaksana dan peserta kegiatan berkumpul.
+
+C. Hak Kelompok Minoritas dan Rentan atas Kebebasan Berkumpul
+
+47. Dalam konsepsi HAM, setidaknya ada dua kelompok yang perlu mendapatkan perhatian
+    ekstra oleh negara/pemerintah. Pertama adalah kelompok minoritas yang secara kuantitas
+    memiliki kekurangan dalam posisi tawar baik secara politik, kultural, dan ekonomi.
+    Kelompok minoritas dapat terbagi dalam kelompok minoritas ras/etnis,
+    agama/kepercayaan, pilihan politik, dan orientasi seksual. Kelompok kedua adalah
+    kelompok rentan yang baik secara kuantitas maupun kualitas memiliki kekurangan dalam
+    posisi tawar baik secara politik, kultural, ekonomi maupun struktur sosial. Perempuan,
+    anak, dan buruh, termasuk dalam kategorisasi kelompok rentan karena mereka rentan
+    terhadap struktur sosial yang menindas dan diskriminatif. Namun perlu digarisbawahi
+    bahwa pengkategorian di atas bersifat terbuka dalam artian kedua kelompok minoritas
+    dan rentan dapat saja memiliki kedua kategori diatas (overlapping). Kedua kelompok
+    tersebut memiliki hak dan kebebasan untuk berkumpul dan berorganisasi.
+
+48. Hak asasi manusia tidak berbasis pada aspirasi dan/atau kebutuhan kelompok mayoritas.
+    Sebaliknya, HAM juga berorientasi pada pemenuhan, penghormatan, dan perlindungan
+    terhadap kelompok minoritas yang rentan. Semua orang terlahir sebagai manusia yang
+    bebas, setara dalam martabat dan hak-haknya, tanpa ada perbedaan, baik dalam hal suku,
+    warna kulit, agama, jenis kelamin, orientasi seksual, bahasa, afiliasi politik, asal tempat,
+    maupun status lain. 25
+
+49. Prinsip non-diskriminasi untuk kalangan minoritas erat kaitannya dengan prinsip negara
+    hukum (rule of law), yang salah satunya adalah asas kesetaraan di hadapan hukum
+    (equality before the law). Prinsip non-diskriminasi memastikan bahwa negara memberi
+    kesempatan yang setara bagi setiap orang/kelompok untuk melaksanakan hak asasi
+    mereka.
+
+50. Masyarakat adat memiliki hak atas kebebasan berkumpul yang sama dengan masyarakat
+    lain. Hak atas kebebasan berkumpul sangat penting bagi masyarakat adat untuk dapat
+    memperjuangkan hak konstitusionalnya secara kolektif. Jika terdapat hukum yang
+    membatasi atau mendiskriminasi hak atas kebebasan berkumpul masyarakat adat,
+    ketentuan tersebut harus dinyatakan bertentangan dengan Konstitusi.
+
+51. Setiap orang berhak, tanpa diskriminasi dan praduga tidak bersalah, untuk menjalankan
+    kebebasan berkumpul secara damai dan berorganisasi. Setiap orang, termasuk kelompok
+    minoritas, berhak mendapatkan perlindungan hukum yang efektif, tidak bias, dan
+
+         25   The Universal Declaration of Human Rights (UDHR), Pasal 1-2.
+
+Standar Norma dan Pengaturan Nomor 3                                                         12
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     berperspektif afirmasi. 26 Setiap orang atau kelompok minoritas memiliki hak dan
+     kebebasan yang sama dengan kelompok mayoritas. Dalam menjaga HAM, negara tidak
+     boleh bias terhadap tuntutan, tuduhan, atau asumsi dari mayoritas terhadap minoritas.
+
+52. Kebebasan dan HAM tidak dapat diukur dari jumlah kuantitas (majoritarian point of
+    view), namun dinilai dari ikhtiar penghormatan harkat dan martabat manusia yang tidak
+    dapat serta merta diukur secara kuantitatif. Dalam menjaga dan menfasilitasi kebebasan
+    berkumpul dan berorganisasi, kepolisian tidak boleh tergiring oleh opini mayoritas
+    dengan alasan-alasan subjektif dan hanya didasarkan pada praduga.
+
+53. Pemerintah wajib memfasilitasi dan mempromosikan hak perempuan untuk berkumpul
+    secara damai. Sebagai bagian dari kelompok rentan, pemerintah wajib melindungi
+    perempuan dari hegemoni budaya patriarki dan memberi kesempatan serta akses yang
+    sama dengan laki-laki. Politik afirmasi penting diberikan guna memberi kesetaraan yang
+    bermuara kepada keadilan gender.
+
+54. Kepolisian dilarang membubarkan kegiatan berkumpul kelompok minoritas dengan dalih
+    ‘menjaga ketertiban umum’, semata-mata mengikuti tuntutan kelompok mayoritas
+    tertentu yang memiliki pandangan berbeda atau stigma tertentu.
+
+55. Pemerintah melindungi hak anak untuk berpartisipasi dan terlibat dalam unjuk rasa damai
+    dengan memerhatikan kapasitas dan perkembangan anak. Namun hak anak untuk
+    menyelenggarakan pertemuan sebagai bagian dari implementasi kebebasan berkumpul,
+    dapat dikenakan batasan tertentu, seperti usia minimum untuk penyelenggara atau
+    persyaratan yang disetujui orang tua atau wali hukum.
+
+56. Pemerintah mengakui dan melindungi hak anak secara bebas dan bermartabat untuk
+    menyatakan pendapat. Anak, terutama dalam usia remaja, bebas untuk mencari,
+    menerima dan memberi/menyampaikan gagasan/kritikan secara oral lewat kegiatan
+    berkumpul maupun tertulis. Pembatasan tidak dapat dikenakan untuk menjalankan hak
+    dan kebebasan ini kecuali untuk kepentingan nasional. 27
+
+57. Apabila anak (remaja) dalam menjalankan hak dan kebebasannya berhadapan dengan
+    hukum, maka negara harus menjamin perlindungan khusus bagi anak (remaja) tersebut
+    melalui perlakuan secara manusiawi dengan memperhatikan kebutuhan sesuai dengan
+    umurnya.28
+
+      26 The International Covenant on Civil and Political Rights (ICCPR),
+Pasal 14.
+      27 Keputusan Presiden Nomor 36 Tahun 1990 tentang Ratifikasi Kovenan
+Hak Anak, Pasal 15
+      28 Keputusan Presiden Nomor 36 Tahun 1990 tentang Ratifikasi Kovenan
+Hak Anak, Pasal 64.
+
+13                                                   Standar Norma dan Pengaturan Nomor 3
+                                                     Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+D. Mekanisme Administratif
+
+58. Kepolisian harus memberikan akses informasi seluas-luasnya tentang prosedur
+    pemberitahuan kegiatan berkumpul kepada masyarakat. Kegiatan berkumpul yang
+    melibatkan kuantitas peserta yang banyak dan kegiatan yang berisiko tinggi untuk
+    tereskalasi wajib menyampaikan pemberitahuan tertulis. Prosedur penyampaian
+    pemberitahuan tertulis disusun dengan persyaratan yang mudah dan tidak berbelit-belit. 29
+
+59. Pemberitahuan kegiatan berkumpul yang diselenggarakan secara terus-menerus
+    (scheduled assembly) pada waktu tertentu, misalnya Aksi Kamisan, cukup dilakukan
+    pada satu waktu tertentu atau dalam periode waktu tertentu, tanpa harus memberikan
+    pemberitahuan setiap akan diselenggarakannya unjuk rasa.
+
+60. Kepolisian bertanggung-jawab atas segala konsekuensi kegiatan berkumpul yang sudah
+    diberitahukan, yang bersifat mendadak (spontaneous assembly), dan yang bersifat
+    balasan (counter assembly). Peserta dan panitia dari kegiatan berkumpul mendadak dan
+    balasan harus tetap mendapatkan perlindungan hukum dan tidak boleh dibubarkan oleh
+    aparat keamanan sepanjang kegiatan dilakukan dengan tertib dan damai. Berkumpul
+    mendadak dan balasan harus difasilitasi dan diamankan oleh aparat keamanan sebagai
+    wujud penghormatan terhadap prinsip negara demokrasi yang mengakomodasi aspirasi
+    publik dan asas praduga tidak bersalah.
+
+61. Dalam kebebasan berkumpul, Indonesia memakai mekanisme pemberitahuan
+    (notification). Panitia atau penanggung jawab kegiatan berkumpul menyampaikan
+    pemberitahuan secara tertulis kepada kepolisian. 30 Pemberitahuan tertulis selambat-
+    lambatnya diterima 3 (tiga) hari sebelum kegiatan dimulai. 31 Kegiatan berkumpul yang
+    tidak memberitahukan kepada kepolisian dapat dibubarkan. 32 Peraturan tersebut memiliki
+    paradoks karena ‘pemberitahuan’ ditempatkan sebagai ‘perizinan’, yang mana apabila
+    tidak ada ‘pemberitahuan’ maka dapat diberi sanksi pembubaran kegiatan.
+
+62. Sesuai dengan konsepsi pemberitahuan, apabila pemberitahuan tidak direspon oleh
+    kepolisan, maka kegiatan berkumpul harus tetap dapat dijalankan dan tidak boleh
+    dibubarkan dengan alasan tidak melakukan pemberitahuan. Konsep hukum
+    ‘pemberitahuan’ tidak menimbulkan kewajiban bagi kepolisian untuk memberikan
+    persetujuan (approval).
+
+         29
+         Report of the UN Special Rapporteur on the Rights to Freedom of
+Peaceful Assembly, Maina Kiai, 24 April 2013.
+      30 Undang-Undang No 9 Tahun 1998 tentang Kemerdekaan menyampaikan
+pendapat di muka Umum, Pasal 10 Angka (1) dan (2).
+      31 Undang-Undang No 9 Tahun 1998 tentang Kemerdekaan menyampaikan
+pendapat di muka Umum, Pasal 10 Angka (3).
+      32 Undang-Undang No 9 Tahun 1998 tentang Kemerdekaan menyampaikan
+pendapat di muka Umum, Pasal 15.
+
+Standar Norma dan Pengaturan Nomor 3                                                      14
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+63. Dalam pelaksanaannya, pemerintah harus memastikan bahwa formulir atau surat
+    pemberitahuan kegiatan berkumpul ditulis dengan singkat, padat dan jelas, bila
+    memungkinkan dapat diakses secara daring guna mempermudah dan memberi kepastian
+    terhadap warga masyarakat. Informasi yang tertera dalam formulir atau surat
+    pemberitahuan tidak boleh terlalu panjang, cukup menuliskan informasi penting saja,
+    misalnya: (a) waktu, durasi, tempat dan lokasi kegiatan; dan (b) nama dan alamat
+    organisasi, kelompok atau perseorangan.
+
+64. Tindakan berkumpul harus dilindungi dan dimaknai dalam lingkup asas praduga tidak
+    bersalah. Kegiatan berkumpul harus dimaknai sebagai suatu tindakan yang sah dalam
+    konteks negara demokrasi. Kepolisian berkewajiban untuk memfasilitasi dan menjaga
+    kegiatan berkumpul damai tersebut, sampai dibuktikan sebaliknya (tidak damai).
+    Kebebasan di atas harus dimaknai sebagai perwujudan ‘kebebasan yang bertanggung-
+    jawab’ yang dilakukan dengan ‘itikad baik dan damai.’
+
+65. Dalam menjamin terlaksana kekebasan berkumpul yang damai, kepolisian wajib,
+    pertama, memastikan jumlah personil kepolisian sesuai dengan rasio yang ditetapkan
+    dalam perundang-undangan. Kedua, merespon pemberitahuan kegiatan unjuk rasa damai
+    dengan melakukan pemeriksaan terhadap rekam jejak organisasi, situasi dan kondisi
+    sesuai dengan waktu dan tempat pemberitahuan kegiatan (risk assesment) dan merancang
+    tindakan-tindakan preventif-responsif, sebagai tindak lanjut dari mekanisme
+    pemberitahuan (notification) atas kegiatan berkumpul. Pemeriksaan tersebut dilakukan
+    guna mencegah tindakan-tindakan jahat dan membahayakan (harmful acts), misalnya
+    ujaran kebencian (hate speech) dan penyerangan (assault) terhadap komunitas lain
+    (semisal kepada kelompok minoritas). Prosedur pemeriksaan di atas merupakan
+    perwujudan pembatasan sebelum kegiatan (prior restrain) yang sah dan diperbolehkan
+    dalam hukuman HAM Internasional. 33 Pengaturan terkait hal tersebut di atas dapat
+    ditindak lanjuti melalui prosedur operasional standar yang dalam proses perumusannya
+    harus melibatkan partisipasi masyarakat luas dan telah lulus uji publik.
+
+66. Kepolisian dalam proses pemeriksaan rekam jejak organisasi yang akan melaksanakan
+    unjuk rasa damai, harus beralaskan pada rekomendasi tertulis dari Komnas HAM RI,
+    sebelum unjuk rasa atau demonstrasi dilakukan, sebagai perwujudan kewajiban negara
+    (kepolisian) untuk melindungi demokrasi sekaligus menjaga akuntabilitas dalam
+    menjalankan kewenangan.
+
+
+
+
+       33   Guidelines on Freedom of Peaceful Assembly, ODIHR, 2010, p. 27.
+
+15                                                 Standar Norma dan Pengaturan Nomor 3
+                                                   Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+E. Pengamanan untuk Menjamin Kebebasan Berkumpul
+
+67. Kepolisian dan pihak penyelenggara harus berkomunikasi secara aktif dan setara dalam
+    mempersiapan kegiatan berkumpul. Kegiatan berkumpul hanya dapat dibubarkan oleh
+    kepolisian jika tidak dapat menjaga dan menghormati keamanan dan ketertiban umum.
+    Namun demikian, panitia atau penanggungjawab kegiatan berkumpul tidak dapat
+    dipidana atas perbuatan pidana yang dilakukan oleh orang lain dalam kegiatan dimaksud.
+    Panitia hanya dapat dipidana jika melakukan suatu tindak pidana dengan ancaman pidana
+    yang sama dengan orang lain.
+
+68. Dalam hal terjadi demonstrasi atau unjuk rasa mendadak (spontaneous assembly),
+    kepolisian berkewajiban untuk:
+   a. memfasilitasi kegiatan berkumpul, tanpa tindakan represif (pembubaran);
+    b. menjaga tanpa diskriminasi kegiatan berkumpul, tanpa ada asumsi/bias terhadap
+       anggota/panitia pelaksana;
+
+    c. memastikan kegiatan berkumpul bubar secara tertib dan damai; dan
+    d. memastikan kebersihan jalan/tempat penyelenggaraan kegiatan berkumpul kembali
+       dalam keadaan semula.
+
+69. Dalam hal terjadi demonstrasi atau unjuk rasa balasan (counter assembly), kepolisian
+    berkewajiban untuk:
+   a. memfasilitasi kedua/atau lebih pihak yang melakukan kegiatan berkumpul, tanpa ada
+       tindakan represif (pembubaran), selama kegiatan berkumpul dilakukan secara damai;
+
+   b.    menjaga pihak-pihak berkumpul agar terhindar dari eskalasi dan berupaya
+         menghindari pergesekan fisik dan non-fisik antara mereka, tanpa perlu membubarkan
+         kegiatan;
+   c.    memastikan kegiatan berkumpul bubar secara tertib dan damai; dan
+   d.    memastikan kebersihan jalan atau tempat penyelenggaraan kegiatan berkumpul
+         kembali dalam keadaan semula.
+70. Apabila dalam praktiknya terjadi eskalasi berupa tindakan-tindakan kekerasan, baik fisik
+    maupun non-fisik, hal tersebut tidak dapat dijadikan dasar mendakwa penanggungjawab
+    atau panitia penyelenggara kegiatan tidak memiliki niat baik.
+
+71. Keberadaan aparat kepolisian dalam kegiatan berkumpul di ruang privat (gedung atau
+    tempat rapat) tidak diperlukan, kecuali jika diminta oleh panitia penyelenggara untuk
+    alasan keamanan.
+
+
+
+
+Standar Norma dan Pengaturan Nomor 3                                                     16
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+72. Apabila kegiatan berkumpul di ruang publik tereskalasi dalam bentuk gangguan kepada
+    masyarakat atau entitas lain, misalnya kemacetan jalan, kepolisian harus menunjukkan
+    tindakan yang responsif dan menahan diri dari tindakan reaktif yang berlebihan.
+
+73. Kepolisian memberi pengarahan kepada unit yang akan ditugaskan guna memfasilitasi
+    kegiatan berkumpul. Unit kepolisian dan/atau Satpol PP yang diterjunkan harus dibekali
+    dengan alat membela diri yang tidak berbahaya, misalnya perisai, helm, baju anti peluru
+    dan api, serta alat komunikasi portable.
+
+74. Kepolisian dan/atau Satpol PP wajib berkoordinasi dengan penyedia pelayanan kesehatan
+    (first-aid services), petugas kebersihan pasca kegiatan, dan satuan polisi lalu lintas untuk
+    menertibkan atau memberi jalur alternatif agar kemacetan lalu lintas bisa diminimalisasi.
+
+75. Setiap orang yang terlibat dalam kegiatan perkumpulan secara damai harus mendapatkan
+    akses, baik dalam ruang privat maupun publik, tanpa ada diskriminasi (ras, agama dan
+    orientasi seksual) dan harus dilindungi hak-hak berekpresi dan berkumpulnya.
+
+76. Apabila kegiatan berkumpul tereskalasi pada huru-hara (riot), otoritas negara harus
+    mampu mengidentifikasi oknum-oknum yang diduga kuat sengaja memicu atau
+    menghasut dan segera mengamankan yang bersangkutan, tanpa perlu membubarkan
+    kegiatan berkumpul.
+
+77. Kepolisian dilarang menggunakan gas air mata (tear gas). Penggunaan gas air mata
+    dianggap tidak patut kerena efek dari gas air mata dapat mengenai semua orang: baik
+    yang diduga kuat sebagai pihak yang melakukan tindakan penghasutan dengan tujuan
+    menimbulkan keonaran, pelaku kekerasan atau tindak pidana, maupun peserta
+    perkumpulan biasa. Gas air mata dapat juga mengenai orang yang sehat dan juga orang
+    yang tidak sehat sehingga sangat berbahaya bila digunakan.
+
+78. Aparat kepolisian berkewajiban untuk memfasilitasi dan mengamankan kegiatan
+    berkumpul oleh warga negara, sehingga alat, sarana, dan prasarana oleh aparat kepolisian
+    juga harus mencerminkan semangat memfasilitasi dan mengamankan kegiatan.
+    Kepolisian tidak boleh berlebihan dalam menggunakan alat, sarana, dan prasarana
+    keamanan tersebut.
+
+     V.   STANDAR NORMA DAN PENGATURAN KEBEBASAN BERORGANISASI
+
+A. Jaminan Peraturan Perundang-undangan
+
+79. Mengacu pada Pasal 20 DUHAM, bahwa setiap manusia, tanpa memandang perbedaan,
+    memiliki kebebasan untuk menyelenggarakan dan/atau menghadiri pertemuan serta
+    membentuk dan/atau bergabung dalam suatu organisasi, dengan cara-cara tanpa
+
+17                                                     Standar Norma dan Pengaturan Nomor 3
+                                                       Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     kekerasan, sesuai dengan pilihan serta keyakinan masing-masing. Sebaliknya, setiap
+     manusia memiliki kebebasan untuk tidak bergabung—tidak dapat dipaksa untuk
+     bergabung dengan organisasi apapun, sepanjang hal tersebut merupakan pilihan dan
+     keyakinannya.
+
+80. Mengacu pada Pasal 22 ayat (1) KIHSP, ruang lingkup kebebasan berorganisasi meliputi
+    hak untuk membentuk organisasi dan bergabung dalam organisasi tersebut. Oleh karena
+    itu, hak ini juga menjamin perlindungan atas kebebasan dalam memilih organisasi mana
+    pun yang diiinginkan oleh setiap orang. Jika seseorang tidak menyetujui metode atau
+    tujuan suatu organisasi, dia tidak dapat dipaksa untuk bergabung dalam organisasi itu,
+    walaupun organisasi itu merupakan organisasi satu-satunya yang ada di suatu negara.
+    KIHSP juga menjamin hak setiap orang untuk membentuk organisasi lain seperti yang
+    dia inginkan, sebagai mekanisme pelaksanaan hak mengembangkan diri dan terlibat
+    dalam pembangunan.
+
+81. Pasal 22 ayat (1) KIHSP diakomodasi dalam UUD RI 1945, khususnya pada ketentuan
+    Pasal 28 serta Pasal 28E ayat (3), yang menekankan bahwa setiap orang berhak atas
+    kebebasan berserikat. Rumusan serupa juga ditegaskan di dalam Pasal 24 UU HAM,
+    yang menyatakan setiap orang berhak berserikat untuk maksud-maksud damai. Selain
+    itu, dalam ketentuan undang-undang ini juga secara eksplisit disebutkan bahwa setiap
+    orang atau kelompok masyarakat berhak untuk mendirikan partai politik, lembaga
+    swadaya masyarakat, atau organisasi lainnya, untuk memperjuangkan hak dan
+    kepentingannya, sesuai dengan peraturan perundang-undangan.
+
+82. Jaminan perlindungan kebebasan bagi setiap orang untuk berorganisasi menjadi
+    sandaran bagi hadirnya sejumlah undang-undang, yang mengatur pelaksanaan kebebasan
+    berorganisasi, baik yang sifatnya umum maupun khusus. Pengaturan yang bersifat
+    umum terdapat dalam UU Organisasi Kemasyarakatan (Ormas), di mana ormas dibagi
+    menjadi dua kategori, yaitu (a) Ormas Berbadan Hukum, dan (b) Ormas Tidak Berbadan
+    Hukum. Pengaturan yang bersifat khusus diatur berdasarkan pada basis keanggotaannya
+    yang terdiri atas: (i) Perkumpulan yang berbasis pada keanggotaan individu, (ii)
+    Yayasan, yang berbasis pada properti, (iii) Serikat Buruh, yang berbasis pada lingkungan
+    dan jenis pekerjaan, dan (iv) Organisasi-organisasi profesi, seperti Advokat, Gerakan
+    Pramuka, Kedokteran, Tenaga Kesehatan, dan lain sebagainya.
+
+83. Perlindungan kebebasan berorganisasi menjangkau penikmatannya bagi kelompok
+    tertentu yang dikategorikan sebagai kelompok rentan. Hal ini mengacu pada Pasal 28H
+    ayat (2) UUD RI 1945, yang menentukan bahwa setiap orang berhak mendapat
+    kemudahan dan perlakuan khusus untuk memperoleh kesempatan dan manfaat yang
+    sama guna mencapai persamaan dan keadilan. Hal ini dipertegas dalam Pasal 5 ayat (3)
+    UU HAM yang menentukan bahwa setiap orang yang termasuk kelompok masyarakat
+
+
+Standar Norma dan Pengaturan Nomor 3                                                     18
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     yang rentan berhak memperoleh perlakuan dan perlindungan yang lebih berkenaan
+     dengan kekhususannya.
+
+84. Dengan jaminan perlindungan dan kebutuhan yang demikian, negara harus menetapkan
+    kerangka hukum yang tepat dan memastikan tidak adanya tumpang tindih pengaturan
+    serta kerumitan dalam pengelolaan organisasi. Selain kerangka hukum pengaturan
+    organisasi yang tepat dan relevan, negara juga wajib menyusun kebijakan yang tidak
+    membebani warga negara yang ingin mendirikan dan menikmati hak berorganisasi
+    dengan sebaran kewenangan dan birokrasi di berbagai kementerian maupun instansi
+    lainnya.
+
+B. Bentuk-Bentuk Kebebasan Berorganisasi
+
+85. Organisasi sebagai implementasi kebebasan berorganasi dapat dipilah ke dalam beberapa
+    tipe, yaitu:
+      a. Organisasi keagamaan berfungsi sebagai saluran untuk memanifestasikan hak
+           fundamental kebebasan beragama atau berkeyakinan.
+      b. Partai politik merupakan asosiasi yang salah satu tujuannya adalah untuk
+           berpartisipasi dalam pengelolaan urusan publik, termasuk melalui presentasi
+           kandidat untuk pemilihan yang bebas dan demokratis.
+      c. Serikat buruh adalah organisasi di mana para buruh berusaha untuk
+           mempromosikan dan mempertahankan kepentingan bersama mereka.
+      d. Pembela hak asasi manusia adalah orang-orang yang bertindak secara individu
+           atau dalam hubungan dengan orang lain untuk mempromosikan dan
+           mengupayakan perlindungan dan perwujudan hak asasi manusia dan kebebasan
+           mendasar di tingkat lokal, nasional, dan internasional.
+      e. Organisasi non-pemerintah didirikan untuk mencapai tujuan tertentu, khususnya
+           sosial, dengan berbagai macam jenis dan bentuknya, termasuk entitas hukum yang
+           beragam.
+
+86. Dari sisi bentuk badan hukumnya, organisasi-organisasi non-pemerintah yang bersifat
+    non-profit, terdiri dari enam kategori yaitu: (a) perkumpulan, untuk yang berbasis
+    keanggotaan; (b) yayasan untuk yang non-keanggotaan, biasanya berbasis properti; (c)
+    perusahaan—terbatas yang tidak diperuntukan untuk mencari keuntungan; (d) trust,
+    perangkat hukum yang digunakan untuk menyisihkan uang atau harta dari satu orang
+    untuk kepentingan satu atau lebih orang atau organisasi, atau biasa dikenal dengan
+    filantropi; (e) charity: bentuk hukum untuk organisasi sukarela yang umum berlaku di
+    Inggris dan beberapa negara Persemakmuran; (f) bentuk-bentuk khusus, seperti
+    perusahaan untuk kepentingan publik, dana, pusat kajian/lembaga, dan lain-lain.
+
+
+
+
+19                                                 Standar Norma dan Pengaturan Nomor 3
+                                                   Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+C. Hak untuk Tidak Berorganisasi
+
+87. Hak untuk tidak (terlibat) berorganisasi pada mulanya terkait dengan hak seseorang
+    untuk mengakses suatu lapangan pekerjaan tertentu, yang mempersyaratkan untuk
+    bergabung pada suatu organisasi. Namun demikian, pada saat perumusan Pasal 20
+    DUHAM, Organisasi Buruh Internasional (ILO) merekomendasikan agar tidak
+    diberlakukan kebijakan terbuka atau tertutup secara eksklusif. Artinya tetap dibuka
+    peluang bagi seseorang untuk bergabung pada suatu organisasi, sebagai bagian dari hak,
+    pun sebaliknya seseorang memiliki hak untuk tidak bergabung dengan suatu organisasi.
+    Usulan ILO tersebut mendapatkan dukungan dari mayoritas negara, dan kemudian
+    diadopsi menjadi Pasal 20 ayat (2) DUHAM yang menyatakan bahwa tidak seorang pun
+    boleh dipaksa untuk memasuki suatu perkumpulan.
+
+88. Organisasi merupakan perjanjian yang melaluinya dua orang atau lebih dapat bergabung
+    dengan pengetahuan atau kegiatan mereka, secara sementara atau permanen, dengan
+    tujuan tertentu, selain untuk berbagi keuntungan. Oleh karenanya, validitasnya diatur
+    oleh prinsip umum hukum tentang kontrak dan kewajiban, yang mengacu pada prinsip
+    konstitusional kebebasan berserikat, dimana setiap orang bebas untuk bergabung atau
+    tidak bergabung dengan asosiasi pilihannya dan juga, setiap asosiasi bebas untuk
+    menerima atau menolak anggota baru. Di dalam kebebasan berorganisasi, termasuk di
+    dalamnya juga hak untuk tidak menjadi bagian dari suatu asosiasi atau hak untuk
+    meninggalkan/keluar dari suatu organisasi.
+
+D. Hak Buruh dalam Berorganisasi
+
+89. Rujukan utama jaminan perlindungan kebebasan berorganisasi bagi buruh adalah
+    Konvensi ILO No. 87 Tahun 1948 tentang Kebebasan Berserikat dan Perlindungan Hak
+    untuk Berorganisasi atau disebut sebagai K87, yang telah diratifikasi Indonesia melalui
+    Keppres No. 83 Tahun 1998. Dalam konteks nasional, terdapat pula UU No. 21 Tahun
+    2000 tentang Serikat Pekerja/Buruh (UU Serikat Buruh) yang materinya merupakan
+    tindak lanjut K87. Jauh sebelumnya, Indonesia juga sudah mengesahkan Konvensi ILO
+    No. 98 Tahun 1949 tentang Berlakunya Dasar-Dasar dari Hak untuk Berorganisasi dan
+    untuk Berunding Bersama melalui UU No. 18 Tahun 1956.
+
+90. Salah satu hal penting yang ditegaskan dalam peraturan perundang-undangan adalah hak
+    bagi setiap buruh dan serikatnya untuk melakukan “Mogok”. Hak mogok adalah hak
+    fundamental bagi buruh dan organisasi-organisasi mereka, dengan maksud atau tujuan
+    untuk mempromosikan dan membela kepentingan ekonomi dan sosial mereka secara
+    sah. Oleh karenanya, “mogok” tidak dapat digunakan sebagai alasan untuk melakukan
+    tindakan-tindakan intimidasi, mutasi secara paksa, pemutusan hubungan kerja, atau
+    bahkan kriminalisasi, terhadap mereka yang menggunakan hak tersebut, baik
+    perseorangan buruh atau serikat. Mogok merupakan bagian dari hak buruh dalam
+
+Standar Norma dan Pengaturan Nomor 3                                                    20
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     berserikat, juga untuk menyampaikan pendapatnya, sehingga terhadap mereka yang
+     menghalang-halangi pelaksanaan hak mogok, justru dapat dikenakan tindakan hukum
+     dan pemidanaan.
+
+91. Di dalam Pasal 22 ayat (1) KIHSP ditegaskan bahwa jaminan perlindungan kebebasan
+    berserikat dan berorganisasi adalah meliputi hak untuk membentuk organisasi dan
+    bergabung dalam organisasi tersebut. Dengan demikian, hak ini juga menjamin
+    perlindungan atas kebebasan dalam memilih organisasi atau serikat mana pun yang
+    diiinginkan oleh setiap orang/buruh/pekerja untuk bergabung. Tidak boleh ada paksaan
+    bagi seseorang/buruh/pekerja untuk bergabung dengan suatu organisasi atau serikat.
+
+92. Dalam praktik perburuhan, seringkali ada upaya pemaksaaan untuk bergabung dengan
+    organisasi buruh tertentu (yang diakui perusahaan), dan apabila bergabung dengan
+    organisasi buruh lain, justru akan mengalami serangkaian tindakan intimidasi, mulai dari
+    pemecatan, mutasi, hingga tidak diberikan uang lembur. Pembatasan ruang partisipasi
+    keikutsertaan buruh dalam organisasi yang dikehendakinya, pada umumnya dengan
+    menggunakan cara-cara penerapan serangkaian prosedur birokrasi, mulai dari proses
+    pendirian organisasi buruh, hingga keharusan pencatatan dan pemberitahuan mengenai
+    keberadaan organisasi tersebut kepada pihak perusahaan.
+
+93. Walaupun UU Serikat Buruh telah menjamin kebebasan berorganisasi bagi para buruh,
+    namun dalam penerapannya seringkali ditemui adanya sejumlah persoalan. Misalnya,
+    penerapan jumlah minimum keanggotaan, kelengkapan struktur organisasi, pencatatan di
+    instansi terkait (dinas ketenagakerjaan kabupaten/kota), hingga pemberitahuan pada
+    pihak perusahaan, yang memungkinkan bagi pihak perusahaan untuk melakukan
+    intervensi. Perusahaan hanya akan memberikan pengakuan pada organisasi buruh yang
+    direstui saja, dan “memaksa” buruh bergabung dengan organisasi tersebut karena tidak
+    ada pilihan organisasi lain.
+
+94. Praktik pemaksaan berorganisasi kerap menjadi pemicu terjadinya union busting atau
+    pemberangusan serikat. Cara yang kerap digunakan adalah dengan pembentukan
+    organisasi tandingan sebagai upaya delegitimasi terhadap organisasi yang menjadi
+    pilihan buruh. Perusahaan “memaksa” buruh bergabung dengan organisasi buruh
+    tandingan yang diakuinya dan mendelegitimasi organisasi buruh lainnya. Situasi ini
+    terjadi ketika perusahaan sulit menegosiasikan kepentingannya dengan organisasi buruh
+    yang ada, sehingga mensiasati dengan membentuk serikat buruh baru sebagai
+    kepanjangan tangan kepentingannya.
+
+95. UU Serikat Buruh telah memberikan ancaman sanksi bagi perusahaan yang dinilai
+    menghalang-halangi pendirian atau keberadaan suatu organisasi buruh. Dalam Pasal 28
+    junto Pasal 43 ayat (1) UU Serikat Buruh secara eksplisit disebutkan ancaman pidana
+    penjara minimal 1 (satu) tahun dan paling lama 5 (lima) tahun, serta denda paling sedikit
+
+21                                                   Standar Norma dan Pengaturan Nomor 3
+                                                     Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     Rp100 juta dan paling banyak Rp500 juta, bagi siapa saja yang menghalang-halangi atau
+     memaksa pekerja/buruh untuk membentuk serikat buruh/pekerja. Tantangannya adalah
+     konsistensi penegakan hukum atas aturan tersebut, termasuk pengenaan sanksi pidana
+     bagi perusahaan yang melakukan pemberangusan serikat buruh atau pemaksaan
+     keikutsertaan buruh/pekerja dengan suatu serikat buruh (yang diakui perusahaan).
+
+96. UU Serikat Buruh tidak menghendaki adanya rezim pendaftaran dan pengakuan
+    (registry), tetapi lebih pada pencatatan dan pemberitahuan (notification). Sepanjang
+    suatu organisasi buruh telah memenuhi syarat undang-undang, dengan minimal anggota
+    10 orang, memiliki AD/ART, dan susunan kepengurusan, maka tidak ada wewenang
+    dinas ketenagakerjaan maupun perusahaan untuk menolak keberadaan organisasi buruh
+    tersebut. Artinya, tidak ada alasan pula bagi perusahaan untuk menolak partisipasi
+    organisasi buruh itu dalam proses negosiasi, mewakili kepentingan buruh yang menjadi
+    anggotanya, termasuk kehadiran organisasi itu untuk memberikan pendampingan hukum
+    bagi anggotanya, ketika harus melalui proses peradilan dalam suatu perkara dengan
+    perusahaan tempatnya bekerja.
+
+97. Buruh alih daya memiliki hak untuk bergabung dengan organisasi buruh di tempat
+    mereka bekerja (perusahaan pengguna). Hal ini dimaksudkan untuk memastikan
+    pemenuhan hak-hak dari buruh yang bersangkutan dengan perusahaan tempat mereka
+    bekerja (user company), meski secara kontraktual mereka berhubungan dengan
+    perusahaan vendor atau provider. Partisipasi buruh alih daya di organisasi buruh di mana
+    dia bekerja sehari-hari, serta jenis pekerjaan yang dikerjakan sesuai dengan
+    kompetensinya di tempat dia bekerja.
+
+E. Hak Berorganisasi Kelompok Minoritas
+
+98. Perlindungan terhadap kebebasan berorganisasi diberikan kepada anak-anak, masyarakat
+    adat, penyandang disabilitas, orang yang tergolong kelompok minoritas atau kelompok
+    lainnya yang beresiko dan rentan, termasuk para korban diskriminasi orientasi seksual
+    dan identitas gender, non-warga negara termasuk orang-orang tanpa kewarganegaraan,
+    pengungsi atau imigran, serta organisasi yang termasuk kelompok-kelompok yang tidak
+    terdaftar.
+
+99. Praktik pemaksaan penggantian asas atau dasar suatu organisasi minoritas sering terjadi
+    dengan alasan asas atau dasar tersebut bertentangan dengan nilai-nilai Pancasila dan
+    dapat mengganggu ketertiban umum.
+
+100. Persyaratan administratif bagi pemuka kepercayaan/penghayat terhadap Tuhan Yang
+     Maha Esa untuk terdaftar, ditunjuk, dan ditetapkan oleh organisasi penghayat
+
+
+
+Standar Norma dan Pengaturan Nomor 3                                                     22
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     kepercayaan,34 merupakan wujud diskriminasi dan mereduksi hak atas kebebasan untuk
+     tidak berorganisasi oleh warga negara dan menghalangi/mempersulit pemeluk
+     agama/kepercayaan terhadap Tuhan Yang Maha Esa untuk menikah.
+
+101. Setiap orang, termasuk kelompok minoritas, berhak untuk menentukan bergabung atau
+     tidak dengan suatu serikat berbasis keagamaan, kesukuan, maupun orientasi seksual.
+     Hak untuk tidak berorganisasi merupakan ekspresi dari hak menentukan nasib sendiri
+     (right of self-determination). Setiap orang yang memutuskan untuk tidak berorganisasi
+     harus tetap dihormati dan dilindungi hak-haknya oleh pemerintah maupun oleh setiap
+     orang dalam organisasi.
+
+F. Mekanisme Administratif
+
+102. Perlindungan negara terhadap hak berorganisasi tidak berkurang sekalipun status suatu
+     organisasi tidak berbadan hukum. Legalitas suatu organisasi tidak tergantung kepada
+     status sudah berbadan hukum atau belum. Bagi warga negara yang memilih (mendirikan)
+     organisasi yang berbadan hukum, maka (organisasi tersebut) diposisikan sebagai subyek
+     hukum yang memegang hak dan kewajiban sehingga dapat bertindak untuk dan atas
+     namanya sendiri. Organisasi berbadan hukum dapat melakukan tindakan hukum
+     keperdataan (seperti perjanjian, jual beli, sewa-menyewa dan sebagainya). Sebaliknya,
+     organisasi yang tidak berbadan hukum tidak dapat bertindak untuk dan atas namanya
+     sendiri dan jika ingin melakukan suatu tindakan tertentu, maka seluruh pengurus
+     organisasi harus turut bertanggung jawab dalam sistem tanggung jawab tanggung
+     renteng.
+
+103. Negara tidak dapat memaksakan suatu organisasi untuk mendaftarkan dan memiliki
+     Surat Keterangan Terdaftar (SKT). Kewajiban negara memberikan pengakuan dan
+     perlindungan hak berserikat tidak ditentukan oleh kepemilikan SKT. Keberadaan SKT
+     sudah tidak tepat dan relevan pasca putusan Mahkamah Konstitusi (MK) Nomor
+     82/PUU-XI/2013 pada 23 Desember 2014. Putusan MK dimaksud menyatakan bahwa
+     pemerintah tidak dapat mewajibkan organisasi yang tidak berbadan hukum untuk
+     mendaftarkan diri (dan memiliki SKT) berdasarkan wilayah kerja maupun menetapkan
+     suatu organisasi dalam lingkup nasional, provinsi, dan kabupaten/kota. Berdasarkan
+     putusan MK tersebut, perlindungan hak berserikat juga tidak bergantung kepada
+     keabsahan administrasi melalui mekanisme pendaftaran karena pendaftaran bersifat
+     sukarela dan organisasi yang tidak mendaftar harus tetap diakui keberadaannya. Negara
+     tidak boleh menetapkan sistem pengadministrasian hak berorganisasi yang dapat
+     mengurangi esensi hak berorganisasi itu sendiri. Pertimbangan putusan MK Nomor
+     82/PUU-XI/2013 angka [3.19.4] menyatakan sebagai berikut.
+
+
+
+       34   PP No 40/2019, Pasal 39 Angka 1 - 5.
+
+23                                                  Standar Norma dan Pengaturan Nomor 3
+                                                    Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+    “Menurut Mahkamah, yang menjadi prinsip pokok bagi ormas yang tidak berbadan
+    hukum, dapat mendaftarkan diri kepada instansi pemerintah yang bertanggung jawab
+    untuk itu dan dapat pula tidak mendaftarkan diri. Ketika suatu ormas yang tidak berbadan
+    hukum telah mendaftarkan diri haruslah diakui keberadaannya sebagai ormas yang dapat
+    melakukan kegiatan organisasi dalam lingkup daerah maupun nasional.
+
+    Suatu ormas dapat mendaftarkan diri di setiap tingkat instansi pemerintah yang
+    berwenang untuk itu. Sebaliknya berdasarkan prinsip kebebasan berkumpul dan
+    berserikat, suatu ormas yang tidak mendaftarkan diri pada instansi pemerintah yang
+    berwenang tidak mendapatkan pelayanan dari pemerintah (negara), tetapi negara tidak
+    dapat menetapkan ormas tersebut sebagai ormas terlarang, atau negara juga tidak dapat
+    melarang kegiatan ormas tersebut sepanjang tidak melakukan kegiatan yang mengganggu
+    keamanan, ketertiban umum, atau melakukan pelanggaran hukum”
+
+104. Atas pertimbangan MK (dalam putusan MK Nomor 82/PUU-XI/2013 angka [3.19.4])
+     yang memuat frase “suatu ormas yang tidak mendaftarkan diri pada instansi pemerintah
+     yang berwenang tidak mendapatkan pelayanan dari pemerintah (negara)”, negara tidak
+     boleh menafsirkan dan menerapkannya melalui kebijakan maupun tindakan yang
+     mengakibatkan berkurangnya ruang aktualisasi organisasi.
+
+105. Negara wajib memfasilitasi ruang aktualisasi setiap organisasi tanpa membedakan
+     organisasi tersebut memiliki SKT atau tidak. Dalam hal memfasilitasi dengan pemberian
+     dana atau sumber daya lainnya, negara perlu merumuskan kebijakan yang terpisah antara
+     pendataan dengan pemberian akses terhadap sumber daya. Negara tidak boleh
+     menjadikan keberadaan SKT sebagai “standar nilai” terhadap organisasi untuk
+     mengakses ruang publik, seperti izin melakukan penelitian, berkumpul di lapangan
+     terbuka milik umum, ataupun menggunakan fasilitas pemerintah.
+
+G. Izin Prinsip dan Operasional Organisasi Nirlaba Asing
+
+106. Negara wajib memfasilitasi kerjasama antara organisasi lokal dengan organisasi nirlaba
+     asing. Negara menetapkan norma yang memandu dan memfasilitasi kerjasama antara
+     organisasi nirlaba asing dan organisasi lokal tanpa menimbulkan kerugian bagi para
+     pihak dan pemangku kepentingan lainnya. Ketentuan yang mengatur kerjasama antara
+     organisasi nirlaba asing dan organisasi lokal harus dirumuskan dan diimplementasikan
+     oleh negara secara terukur, transparan, akuntabel dalam rangka memberikan kepastian
+     perlindungan terhadap hak dan kewajiban kedua belah pihak. Adanya syarat “izin” yang
+     diberlakukan terhadap organisasi nirlaba yang didirikan oleh warga negara asing
+     merupakan bagian dari sistem pendataan yang bertujuan untuk memastikan adanya
+     sinkronisasi dan dukungan program organisasi nirlaba asing dengan perencanaan
+     pembangunan. Syarat izin bagi organisasi nirlaba asing tidak boleh mengurangi akses
+     organisasi lokal dalam mengelola program atau kerjasama (dengan organisasi nirlaba
+
+Standar Norma dan Pengaturan Nomor 3                                                     24
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     asing) dan berdampak negatif terhadap kepastian kesesuaian kompetensi pelaksana
+     program atau kerjasama yang diusulkan oleh organisasi nirlaba asing.
+
+107. Dalam menetapkan prosedur guna memastikan perlindungan hak dan kewajiban antara
+     organisasi nirlaba asing dan organisasi lokal, negara wajib menyertakan batasan diskresi,
+     terutama rentang waktu atas pemenuhan rentetan prosedur izin prinsip dan izin
+     operasional (yang wajib dimiliki oleh organisasi nirlaba asing). Seluruh proses verifikasi
+     dokumen pendaftaran harus dilengkapi dengan alokasi waktu yang terukur. Penempatan
+     setiap sub tahapan verifikasi dalam alur pengajuan izin prinsip dan izin operasional harus
+     disertai dengan informasi tentang waktu maksimal, utamanya dalam memutuskan status
+     pengajuan (izin prinsip dan izin operasional). Diskresi tanpa batasan dapat menjadi alat
+     birokrasi untuk mengulur-ulur waktu yang dapat menimbulkan ketidakpastian hukum
+     dalam memperoleh izin prinsip dan izin operasional.
+
+H. Tim Pengawas/Penilai Organisasi
+
+108. Kewajiban sekaligus tanggung jawab utama negara dalam melindungi hak berorganisasi
+     adalah menciptakan lingkungan yang kondusif (enabling environment) dan memperluas
+     ruang aktualisasi sehingga memungkinkan bagi setiap orang untuk dapat mendirikan dan
+     menjalankan mandat organisasi serta mewujudkan cita-cita organisasi. Lingkungan yang
+     kondusif harus menyediakan kesempatan yang memadai bagi setiap organisasi untuk
+     menentukan pedoman dan cara mengelola organisasi. Proses ini dilalui tanpa ada
+     hegemoni, intervensi, paksaan, atau tindakan represif dari kekuasaan atau kelompok
+     manapun yang mengakibatkan berkurangnya kemandirian, kemanfaatan organisasi bagi
+     pemangku kepentingan, ataupun memunculkan hambatan dan pengaruh negatif dalam
+     berorganisasi.
+
+109. Dalam menciptakan lingkungan yang kondusif dan memperluas ruang aktualisasi bagi
+     ormas, negara dapat merumuskan kebijakan dan menetapkan langkah-langkah teknis
+     yang dituangkan dalam peraturan perundang-undangan, program-program kelembagaan,
+     dan fasilitasi yang mendorong peningkatan peran dan kontribusi organisasi. Negara
+     dapat memformulasikan dan melengkapi arena berorganisasi dengan pilihan-pilihan tata
+     kelola dan keleluasaan interaksi antara organisasi dengan anggota dan pemangku
+     kepentingannya.
+
+110. Aspek pengawasan ormas yang dijalankan oleh negara adalah dalam posisi pasif. Tidak
+     boleh ada hegemoni, intervensi, dan paksaan negara terhadap organisasi. Hidup-mati
+     atau aktif-tidak aktif suatu organisasi adalah sepenuhnya tanggung jawab pengurus
+     organisasi dan bukan negara. Mahkamah Konstitusi dalam putusan Nomor 82/PUU-
+     XI/2013 pada 23 Desember 2014 menyatakan dalam pendapatnya (angka [3.19.7]) yaitu
+     “Menurut Mahkamah, kemajuan dan kemunduran suatu ormas adalah urusan internal
+     yang menjadi kebebasan dan tanggung jawab ormas yang bersangkutan. Apabila pada
+
+25                                                     Standar Norma dan Pengaturan Nomor 3
+                                                       Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     akhirnya ormas tidak mampu meneruskan keberlangsungan organisasinya maka hal
+     demikian merupakan hal yang alamiah dan wajar”.
+
+111. Negara hanya boleh bertindak (dalam hal pengawasan) manakala terjadi gangguan atau
+     tindakan represif dari kelompok manapun yang mengakibatkan berkurangnya
+     kemandirian, kemanfaatan organisasi bagi pemangku kepentingan, hingga memunculkan
+     hambatan dan pengaruh negatif dalam arena berorganisasi.
+
+I.   Pembubaran Organisasi
+
+112. Negara wajib dan perlu mengambil sikap berhati-hati dalam memahami pembatasan hak
+     berorganisasi yang diatur secara ketat dalam konstitusi. Prinsip kehati-hatian
+     berlandaskan pada instrumen perlindungan hak asasi manusia (konvensi internasional
+     dan hukum nasional), putusan pengadilan, teori-teori hukum yang berkaitan, dan posisi
+     manusia sebagai makhluk sosial.
+
+113. Terhadap sanksi penghentian sementara (dengan kata lain penangguhan atau
+     pembekuan) kegiatan suatu organisasi, negara wajib menjelaskan alasan dan jangka
+     waktu (penghentian kegiatan) secara spesifik. Penetapan penghentian sementara kegiatan
+     organisasi tidak mencakup kegiatan internal organisasi (seperti rapat atau pertemuan
+     rutin).
+
+114. Dalam merumuskan dan menetapkan sanksi terhadap suatu organisasi, negara wajib
+     menyesuaikan dan memastikan tidak adanya pertentangan dengan teori/asas hukum,
+     peraturan perundang-undangan, dan/atau putusan pengadilan. Pencabutan SKT dari
+     organisasi tidak berbadan hukum sudah tidak tepat dan relevan pasca-dikeluarkannya
+     putusan MK Nomor 82/PUU-XI/2013 pada 23 Desember 2014. Berdasarkan putusan
+     MK, organisasi yang tidak berbadan hukum tidak wajib mendaftarkan diri (memiliki
+     SKT). Dengan demikian, memberlakukan sanksi pencabutan SKT menjadi tidak logis
+     dan konsisten (karena sifat kepemilikan SKT sudah bukan kewajiban). Oleh karena itu,
+     negara tidak dapat memberlakukan sanksi pencabutan SKT.
+
+115. Adanya sanksi pencabutan status badan hukum oleh menteri yang menyelenggarakan
+     urusan pemerintahan di bidang hukum dan hak asasi manusia, sebagaimana yang
+     menimpa organisasi Hizbut Tahrir Indonesia (HTI) pada Mei 2017, dengan dalih
+     penerapan asas contrarius actus, tidak dapat dibenarkan secara hukum. Asas contrarius
+     actus ada pada rejim perijinan di mana suatu tindakan dapat dilakukan jika ada
+     keputusan yang mendasarinya. Hal ini berbeda dengan pembentukan organisasi yang
+     asal tindakannya adalah hak yang melekat tanpa membutuhkan ijin negara. Pemberian
+     status badan hukum adalah tindakan pengakuan deklaratif bukan konstitutif. Demikian
+     pula tindakan negara atas berakhirnya status badan hukum adalah tindakan deklaratif
+     semata. Jika tindakan keputusan negara yang mengakhiri status badan hukum bersifat
+
+Standar Norma dan Pengaturan Nomor 3                                                    26
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     konstitutif, maka keputusan itu merupakan bentuk penghukuman (seperti hukuman mati)
+     yang harus dijatuhkan berdasarkan putusan pengadilan. Selain itu, pemberian status
+     badan hukum tidak sekadar berhubungan dengan keabsahan administratif, tetapi juga
+     membentuk subjek hukum baru. Upaya untuk menghapus atau mencabut hak dan
+     kewajiban yang melekat pada subjek hukum, harus dilakukan melalui putusan
+     pengadilan, layaknya badan hukum lain, seperti pernyataan pailit suatu Perseroan
+     Terbatas (PT) atau pembubaran partai politik melalui MK.
+
+116. Kondisi aktual di Indonesia memperlihatkan adanya banyak tuntutan untuk melakukan
+     pembubaran suatu organisasi, dikarenakan organisasi tersebut secara terus-menerus
+     melakukan tindakan kekerasan atau pelanggaran hukum lainnya. Terhadap tuntutan ini,
+     yang utama harus dipertimbangkan adalah bahwa tindakan pembubaran suatu organisasi
+     harus sepenuhnya mengacu pada prinsip-prinsip due process of law sebagai pilar dari
+     negara hukum. Pembubaran hanya dapat dilakukan dengan putusan pengadilan yang
+     bebas dan adil. Putusan pengadilan pertama harus dapat diuji pada tingkat pengadilan
+     berikutnya (yang lebih tinggi).
+
+117. Tuntutan pembubaran terhadap suatu organisasi yang terus-menerus melakukan tindakan
+     pelanggaran hukum (pidana), dapat dilakukan bersamaan dengan proses pidana terhadap
+     orang-orang yang mewakili organisasi tersebut. Proses hukum dapat dipersamakan
+     dengan model pertanggungjawaban pidana korporasi, sebagaimana diatur dalam UU
+     Perseroan Terbatas, UU Tindak Pidana Korupsi, dan UU Perlindungan dan Pengelolaan
+     Lingkungan Hidup. Jadi dalam proses pidana, ada empat aspek pertanggungjawaban
+     pidana sekaligus: (a) pengurus sebagai pembuat dan pengurus yang bertanggung jawab
+     secara pidana; (b) organisasi sebagai pembuat tindak pidana dan pengurus
+     organisasi/korporasi yang bertanggung jawab secara pidana; (c) organisasi sebagai
+     pembuat tindak pidana dan juga sebagai yang bertanggung jawab secara pidana; dan (d)
+     pengurus organisasi sebagai pembuat tindak pidana, serta pengurus dan korporasi yang
+     bertanggung jawab secara pidana. Jadi dalam putusannya, selain menjatuhkan hukuman
+     pidana kepada pengurus, sebagai bentuk pertanggungjawaban pidana, hakim juga dapat
+     menjatuhkan hukuman pidana pada organisasi dalam bentuk pembubaran dan/atau
+     pelarangan.
+
+118. Hukuman berupa pembubaran dan/atau pelarangan dimungkinkan karena organisasi
+     adalah suatu badan atau perkumpulan yang memiliki hak dan kapasitas melakukan
+     tindakan seperti manusia, memiliki kekayaan sendiri, dan dapat digugat dan menggugat
+     di depan hakim. Oleh karenanya, organisasi juga harus dimaknai sebagai subjek hukum
+     (recht persoon) yang merupakan bentuk artifisial dari seorang manusia yang dapat
+     memiliki hak dan kewajiban hukum. Meski terhadap suatu organisasi tentunya tidak
+     dapat dikenakan pemidanaan berupa pidana yang merampas kemerdekaan badan
+     (penjara), sehingga pidana badan hanya diterapkan terhadap pengurusnya, sementara
+     organisasinya dinyatakan dibubarkan atau dilarang.
+
+27                                                 Standar Norma dan Pengaturan Nomor 3
+                                                   Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+119. Putusan pembubaran dan pelarangan terhadap organisasi Jamaah Islamiyah pada tahun
+     2008 dapat menjadi salah satu preseden atau yurisprudensi dalam pembubaran suatu
+     organisasi, yang dilakukan bersamaan dengan proses pidana terhadap pengurus
+     organisasinya. Dalam putusan Pengadilan Negeri Jakarta Selatan, selain menghukum
+     terdakwa Abu Dujana dengan hukuman pidana 15 tahun penjara, juga menyatakan
+     pembubaran dan pelarangan terhadap organisasi Jemaah Islamiyah, yang dinilai telah
+     mensponsori sejumlah tindak pidana terorisme di Indonesia.
+
+120. Putusan serupa juga dikeluarkan oleh Pengadilan Negeri Jakarta Selatan pada 2018,
+     dalam kasus terorisme dengan terdakwa Zainal Anshori, Amir Pusat Jamaah Ansharut
+     Daulah. Dalam kasus ini, selain menghukum terdakwa 15 tahun pidana penjara, juga
+     menyatakan pembubaran dan pelarangan terhadap organisasi Jamaah Ansharut Daulah.
+     Majelis hakim dalam putusannya mengatakan JAD terbukti bertanggung jawab atas aksi
+     teror yang dilakukan anggotanya di berbagai kota Indonesia.
+
+121. Dengan yurisprudensi dua kasus tersebut, pembubaran suatu organisasi yang secara
+     terus-menerus melakukan tindakan pelanggaran hukum dapat dilakukan tanpa melalui
+     serangkaian tahapan peringatan dan penuntutan perdata di pengadilan. Mekanismenya
+     dapat menggunakan proses pidana, bersamaan dengan penegakan hukum pidana
+     terhadap tindakan melawan hukum yang dilakukan oleh pengurusnya. Meski tidak
+     melalui proses bertahap dari tindakan lunak ke tindakan keras, proses peradilan telah
+     memberikan kesempatan yang memadai bagi organisasi bersangkutan untuk membela
+     dirinya, sebelum dilakukan tindakan pembubaran. Setelah keluarnya putusan pengadilan
+     tingkat pertama, pengurus dan/atau organisasi yang bersangkutan masih memiliki
+     kesempatan banding ke tingkat pengadilan berikutnya. Dengan demikian, tindakan
+     pembubaran terhadap organisasi dengan menggunakan jalur hukum pidana tetap
+     memenuhi prinsip-prinsip due process of law yang dijunjung tinggi dalam setiap
+     tindakan pembatasan terhadap kebebasan berserikat/berorganisasi.
+
+     VI.       PEMBATASAN KEBEBASAN BERKUMPUL DAN BERORGANISASI
+
+A. Pembatasan Kebebasan Berkumpul
+
+122. Dalam kebebasan berkumpul hanya kegiatan yang berkumpul secara damai (peaceful)
+     saja yang wajib dilindungi. Damai harus dimaknai sebagai permulaan niat baik (good
+     intention) dari suatu kegiatan berkumpul. Dengan niat baik untuk berkumpul secara
+     damai, publik berhak mendapatkan perlindungan hukum atas pendapat dan ekspresi
+     mereka.
+
+
+
+
+Standar Norma dan Pengaturan Nomor 3                                                    28
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+123. Hak atas kebebasan berkumpul bukan merupakan hak yang mutlak sehingga
+     penikmatannya dapat dikenakan pembatasan (limitation) dan/atau pengurangan
+     (derogation) baik dalam keadaan biasa maupun darurat.
+
+124. Setiap orang atau kelompok yang melaksanakan kebebasan berkumpulnya harus
+     memahami aturan dalam Pasal 28J UUD RI 1945 yang menyebutkan: “dalam
+     menjalankan hak dan kebebasannya, setiap orang wajib tunduk kepada pembatasan yang
+     ditetapkan dengan undang-undang dengan maksud semata-mata untuk menjamin
+     pengakuan serta penghormatan atas hak dan kebebasan orang lain dan untuk memenuhi
+     tuntutan yang adil sesuai dengan pertimbangan moral, nilai-nilai agama, keamanan, dan
+     ketertiban umum dalam suatu masyarakat demokratis.” Pembatasan hak (limitation) atas
+     kebebasan berkumpul dalam keadaan normal tidak mengurangi hak, tetapi menentukan
+     batas jangkauan hak tersebut.
+
+125. Nilai-nilai kepantasan yang partikularistik, bersifat keagamaan, dan moralitas publik
+     dalam Pancasila dapat menjadi alasan pembatasan kebebasan. Namun agar nilai-nilai
+     tersebut tidak menjadi justifikasi pelanggaran HAM yang dilakukan oleh pemerintah,
+     nilai-nilai keluhuran Pancasila harus dimaknai sebagai ‘Ideologi Terbuka’ yang inklusif,
+     berkeadilan sosial dan berperikemanusian. Nilai-nilai ketuhanan yang rawan terhadap
+     tafsir kepentingan harus dimaknai dalam bingkai sikap batin yang toleran, moderat dan
+     anti-diskriminasi.
+
+126. Pemerintah, dalam keadaan darurat yang mengancam kehidupan bangsa yang telah
+     diumumkan secara resmi, dapat mengambil langkah-langkah yang mengurangi
+     (derogation) kewajiban-kewajiban, sejauh memang sangat diperlukan dalam situasi
+     darurat tersebut. Langkah-langkah pembatasan tidak boleh bertentangan dengan
+     kewajiban-kewajiban lainnya berdasarkan hukum internasional, dan tidak mengandung
+     diskriminasi semata-mata berdasarkan atas ras, warna kulit, jenis kelamin, bahasa,
+     agama, atau asal-usul sosial.
+
+127. Pembatasan hak tidak dapat dikenakan pada hak yang tak boleh ditangguhkan pada
+     keadaan apa pun (non-derogable rights), dimana hak-hak tersebut antara lain hak untuk
+     hidup, hak bebas dari penyiksaan, hak untuk tidak diperbudak, hak untuk tidak ditangkap
+     sewenang-wenang, hak untuk tidak dipenjara karena tidak mampu melaksanakan prestasi
+     dari sebuah perjanjian, hak untuk bebas dari pemidanaan yang bersifat retroaktif, hak
+     untuk diakui sebagai subjek hukum, serta hak untuk bebas berpikir, berkeyakinan, dan
+     beragama.
+
+B. Pembatasan Kebebasan Berorganisasi
+
+128. UUD RI 1945 menempatkan Pasal 28J ayat (2) yang mengatur mengenai pembatasan
+     hak asasi manusia, sebagai pasal penutup dari keseluruhan pasal di dalam Bab XA
+
+29                                                    Standar Norma dan Pengaturan Nomor 3
+                                                      Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     tentang Hak Asasi Manusia. Dengan sistematika tersebut, menurut Mahkamah
+     Konstitusi, keseluruhan jaminan hak asasi manusia yang diatur di dalam UUD 1945,
+     tunduk pada alasan dan mekanisme pembatasan yang diatur oleh ketentuan Pasal 28J
+     ayat (2) UUD RI 1945.35
+
+129. Mengacu pada ketentuan Pasal 28J ayat (2) UUD RI 1945 di atas, pembatasan terhadap
+     suatu hak dapat dilakukan dengan sejumlah syarat dan alasan berikut: (i) ditetapkan
+     dengan undang-undang (prescribed by law); (ii) dengan maksud semata-mata untuk
+     menjamin pengakuan serta penghormatan atas hak dan kebebasan orang lain (necessity);
+     (iii) untuk memenuhi tuntutan yang adil, dengan pertimbangan moral, nilai-nilai agama,
+     keamanan, dan ketertiban umum; dan (iv) dalam suatu masyarakat demokratis.
+
+130. UU HAM juga menempatkan klausula pembatasan sebagai pasal penutup dari
+     keseluruhan pasal yang mengatur mengenai jaminan hak asasi manusia. Dalam Pasal 70
+     UU HAM disebutkan, pembatasan dimungkinkan jika: (i) ditetapkan oleh undang-
+     undang; (ii) dengan maksud untuk menjamin pengakuan serta penghormatan atas hak
+     dan kebebasan orang lain; (iii) memenuhi tuntutan yang adil, dengan pertimbangan
+     moral, keamanan, dan ketertiban umum; dan (iv) dalam suatu masyarakat demokratis.
+     Selain syarat dan alasan tersebut, dalam Pasal 73 UU HAM ditambahkan, bahwa
+     pembatasan dapat dilakukan dengan alasan: (v) kesusilaan; dan (vi) kepentingan bangsa.
+
+131. Berdasarkan Pasal 22 ayat (2) KIHSP, dalam pelaksanaan kebebasan berorganisasi,
+     pembatasan hanya mungkin dilakukan bilamana: (i) diatur oleh hukum; (ii) diperlukan;
+     (iii) dalam masyarakat demokratis; (iv) untuk kepentingan keamanan nasional dan
+     keselamatan publik, ketertiban umum, perlindungan kesehatan dan moral publik, atau
+     perlindungan atas hak dan kebebasan dari orang lain.
+
+132. Dengan gambaran di atas, dapat dilihat beragam dan perbedaan rujukan pembatasan
+     dalam pelaksanaan kebebasan berorganisasi di Indonesia, yang apabila dibandingkan
+     sebagai berikut:
+
+                       Pembatasan Kebebasan Berserikat/Berorganisasi
+           UUD RI 1945                  UU HAM                       KIHSP
+     Ditetapkan         dengan ditetapkan oleh undang- diatur oleh hukum
+     undang-undang              undang
+     Dengan maksud semata- dengan maksud untuk Diperlukan
+     mata untuk menjamin menjamin pengakuan serta
+     pengakuan            serta penghormatan atas hak dan
+     penghormatan atas hak dan kebebasan orang lain
+
+      35 Selengkapnya lihat Putusan No. 132/PUU-VII/2009, hal. 31. Pendapat
+
+tersebut kembali ditegaskan oleh MK di dalam Putusan No. No. 45/PUU-
+VIII/2010.
+
+Standar Norma dan Pengaturan Nomor 3                                                    30
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     kebebasan orang lain
+     Untuk memenuhi tuntutan      Memenuhi tuntutan yang Tujuan yang sah (legitimate
+     yang      adil,     dengan   adil, dengan pertimbangan:
+                                                         aim), untuk kepentingan:
+     pertimbangan:                1. moral,              1. keamanan nasional dan
+     1. moral,                    2. keamanan, dan          keselamatan publik,
+     2. nilai-nilai agama,        3. ketertiban umum     2. ketertiban umum,
+     3. keamanan, dan             4. kesusilaan          3. perlindungan kesehatan
+     4. ketertiban umum           5. kepentingan bangsa     dan moral publik,
+                                                         4. perlindungan atas hak dan
+                                                            kebebasan dari orang lain
+     dalam suatu masyarakat       dalam suatu masyarakat dalam masyarakat demokratis
+     demokratis                   demokratis
+
+     Terhadap perbedaan dimaksud, yang harus dijadikan acuan adalah kewajiban
+     internasional Indonesia terhadap hukum internasional hak asasi manusia. Tantangannya
+     kemudian adalah bagaimana memberikan penafsiran atas seluruh alasan dan klausul
+     pembatas yang dipersyaratkan?
+
+133. Pertama, pembatasan harus diatur oleh hukum (prescribed by law), maksud dari frasa ini
+     untuk menghindari kemungkinan pembatasan kebebasan berserikat dengan
+     menggunakan langkah-langkah yang diambil eksekutif. Dalam hukum internasional
+     HAM, hukum dimaknai setidaknya ke dalam dua hal: 36 (i) peraturan perundang-
+     undangan yang diciptakan bersama antara legislatif dengan eksekutif, atau di Indonesia
+     disebut dengan undang-undang; dan (ii) putusan pengadilan. Harus dalam bentuk
+     undang-undang karena materi pembatasan haruslah mendapatkan persetujuan dari publik
+     (kehendak rakyat), yang dalam prosesnya diwakili oleh para legislator. Oleh karena itu,
+     peraturan di bawah undang-undang tidak boleh memuat pembatasan, tetapi hanya
+     memuat operasional atau teknis implementatif dari tindakan pembatasan yang
+     dilakukan. 37 Putusan pengadilan adalah hukum, karena dalam prosesnya telah memenuhi
+     prinsip due process of law, sebagai dasar dari negara hukum.
+
+
+         Beberapa ahli juga ada yang menyebutkan bahwa hukum juga termasuk
+        36
+hukum yang tidak tertulis (Lihat: Kiss A, “Commentary by the Rapporteur on
+the Limitations Principles”, dalam Human Rights Quarterly, Volume 7, hal
+18).
+      37 Namun demikian, ada pula pendapat yang menyatakan bahwa eksekutif
+
+dapat mengambil langkah intervensi untuk membatasi hak-hak tersebut,
+dengan berlandaskan pada general statutory authorization. Dicontohkan
+bahwa polisi misalnya dapat menghentikan jalannya demonstrasi yang
+membahayakan ketertiban umum atau keselamatan umum, namun langkah itu
+tidak boleh melanggar hukum formal atau tindakan pembatasan tersebut
+ditetapkan dengan berlandaskan hukum. Dalam hal ini aturan pembatasan
+tersebut haruslah jelas dan dapat diakses oleh setiap orang, tidak boleh
+sewenang-wenang dan harus masuk akal. Selain itu negara juga harus
+menyediakan upaya perlindungan dan pemulihan yang memadai terhadap
+
+31                                                   Standar Norma dan Pengaturan Nomor 3
+                                                     Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+134. Kedua, selain diatur oleh hukum, hukum internasional HAM dan hukum nasional, juga
+     menyepakati pra-syarat, bahwa pembatasan itu memang diperlukan (necessary).
+     Dijelaskan oleh Prinsip-Prinsip Siracusa, bahwa prinsip necessary, maksudnya adalah
+     bahwa pembatasan harus: (i) didasarkan pada salah satu alasan yang membenarkan
+     pembatasan yang diakui oleh pasal yang relevan dalam Kovenan; (ii) menjawab
+     kebutuhan sosial; (iii) untuk mencapai tujuan yang sah; dan (iv) proporsional pada
+     tujuan tersebut di atas.38 Lebih jauh, prinsip ini menekankan bahwa untuk membatasi
+     penerapan suatu hak, hanyalah dimungkinkan pada situasi ada kebutuhan riil untuk
+     melakukan pembatasan tersebut. Guna menguji syarat “diperlukan”, digunakan dua
+     syarat: (i) perlu dalam suatu masyarakat demokratis; dan (ii) proporsional pada
+     kebutuhan yang diperlukan (proportional to the desired need).
+
+135. Dalam syarat masyarakat demokratis, problem yang kerap mengemuka adalah luasnya
+     konsep demokrasi dan tidak mungkin membangun kesamaan pemahaman demokrasi itu.
+     Hal ini membuka peluang untuk dimaknai sesuai dengan kepentingan pemegang
+     kekuasaan politik. Syarat ini sesungguhnya dimaksudkan untuk membantu memberi
+     persyaratan pada gagasan ‘ketertiban umum’ dan ‘keamanan nasional’ yang kerap
+     dipakai sebagai alasan dalam melakukan pembatasan. Dalam menetapkan aturan dan
+     menerapkan tindakan pembatasan terhadap kebebasan berorganisasi, negara harus
+     membuktikan bahwa pembatasan tidak mengganggu berfungsinya masyarakat yang
+     demokratis, yakni yang mengakui dan menjunjung tinggi hak asasi manusia,
+     sebagaimana tercantum di dalam Deklarasi Universal Hak Asasi Manusia, serta seluruh
+     perangkat perjanjian internasional hak asasi manusia.
+
+136. Sedangkan syarat proporsional mengandung arti dibutuhkan adanya ukuran
+     pertimbangan yang pasti untuk melakukan intervensi. Prinsip proposionalitas ini hendak
+     memastikan bahwa campur tangan negara dalam pelaksanaan kebebasan fundamental
+     tidak melebihi batas-batas kebutuhan dalam masyarakat demokratis, dan menuntut
+     keseimbangan wajar antara semua kepentingan yang berlawanan dan memastikan bahwa
+     cara yang dipilih menjadi cara yang paling tidak membatasi untuk melayani kepentingan
+     tersebut. Dengan prinsip ini, suatu tindakan pelarangan atau pembubaran tidak boleh
+     digunakan untuk mengatasi pelanggaran yang bersifat kecil.
+
+137. Ketiga, tindakan pembatasan haruslah bersandar pada tujuan atau legitimasi yang sah
+     (legitimate aim), untuk alasan kepentingan yang meliputi: (a) keamanan nasional
+     (national security); (b) keamanan publik (public safety); (c) ketertiban umum (public
+     order); (d) moral publik (public moral); (e) kesehatan publik (public health); dan (f) hak
+     dan kebebasan orang lain (rights and freedom of others). Detailnya, alasan-alasan untuk
+     memenuhi tujuan yang sah tersebut, harus dimaknai sebagai berikut: Langkah
+
+penetapan atau pun penerapan pembatasan yang bersifat                      sewenang-wenang
+terhadap hak-hak tersebut (Lihat: Nowak, hal. 489-492).
+      38 Paragraf 10 Prinsip-Prinsip Siracusa.
+
+
+ Standar Norma dan Pengaturan Nomor 3                                                       32
+ Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     pembubaran terhadap suatu organisasi, sebagai bagian dari tindakan pembatasan,
+     haruslah ditempatkan sebagai langkah terakhir (the last resort), jika upaya lain yang
+     sifatnya softer measures telah dilakukan. Pembubaran organisasi secara paksa
+     merupakan bentuk pembatasan kebebasan berserikat yang paling kejam. Oleh karenanya,
+     langkah semacam ini hanya dapat dimungkinkan ketika ada bahaya yang jelas dan
+     mendesak yang mengakibatkan adanya pelanggaran berat terhadap hukum nasional suatu
+     negara. Dalam melakukan tindakan tersebut, negara harus menjamin proporsionalitas
+     tindakan yang dilakukan agar langkah yang dilakukan berkesesuaian dengan tujuan yang
+     sah yang ingin dicapai, serta tindakan itu hanya boleh dilakukan sepanjang langkah-
+     langkah lunak sudah dianggap tidak mampu mengatasi pelanggaran-pelanggaran yang
+     dilakukan oleh organisasi yang hendak dibubarkan.
+
+     Keamanan       Klausul ini digunakan hanya untuk melindungi eksistensi bangsa,
+     Nasional       integritas wilayah atau kemerdekaan politik suatu negara dari adanya
+                    kekerasan atau ancaman kekerasan. Negara tidak boleh menggunakan
+                    klausul ini sebagai dalih untuk melakukan pembatasan yang sewenang-
+                    wenang dan tidak jelas. Pembatasan dengan klausul ini juga tidak sah, jika
+                    tujuan yang sesungguhnya atau dampak yang dihasilkannya adalah untuk
+                    melindungi kepentingan-kepentingan yang tidak berhubungan dengan
+                    keamanan nasional. Misalnya untuk melindungi suatu pemerintahan dari
+                    rasa malu akibat kesalahan yang dilakukan atau pengungkapan kesalahan
+                    yang dilakukan, atau untuk menutup-nutupi informasi tentang
+                    pelaksanaan fungsi institusi-institusi publiknya, atau untuk menanamkan
+                    suatu ideologi tertentu, atau untuk menekan kerusuhan industrial.
+     Keselamatan    Alasan ini digunakan untuk melindungi orang dari bahaya dan melindungi
+     Publik         kehidupan mereka, integritas fisik atau kerusakan serius atas properti atau
+                    hak milik mereka. Pembatasan dengan alasan keselamatan publik
+                    misalnya larangan-larangan bagi organisasi untuk menyebarluaskan
+                    propaganda perang, permusuhan, juga larangan penyebaran ujaran
+                    kebencian. Klausul ini tidak bisa digunakan untuk pembatasan yang
+                    sewenang-wenang dan hanya bisa diterapkan jika ada perlindungan yang
+                    cukup dan pemulihan yang efektif terhadap penyalahgunaan pembatasan.
+     Ketertiban     Frasa “ketertiban umum” diterjemahkan sebagai sejumlah aturan yang
+     Umum           menjamin berfungsinya masyarakat atau seperangkat prinsip mendasar
+                    yang hidup di masyarakat. Ketertiban umum juga melingkupi
+                    penghormatan terhadap hak asasi manusia. Selain itu, ketertiban umum di
+                    sini harus dilihat dalam konteks hak yang dibatasinya. Dalam istilah
+                    aslinya, frasa ketertiban umum memang mempunyai banyak arti, namun
+                    kemudian secara umum penerjemahannya di berbagai negara mengacu
+                    pada arti kepentingan umum dari sebuah kepentingan kolektif, yang
+                    dalam hal ini juga mengimplikasikan bahwa hak asasi manusia dihormati
+                    oleh masyarakat itu. Pembatasan pada hak yang menggunakan klausula
+
+33                                                    Standar Norma dan Pengaturan Nomor 3
+                                                      Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+                           ini harus sesuai dengan pra-syarat ketertiban umum pada setiap kasusnya,
+                           sehingga pembatasan hanya dapat dibenarkan jika ada sebuah situasi atau
+                           tindakan terhadap orang tertentu yang menimbulkan suatu ancaman
+                           serius. Lebih jauh, tindakan-tindakan seperti keharusan untuk
+                           memberitahu tentang keberadaan suatu organisasi, adanya sistem lisensi
+                           dan pendaftaran (registrasi) terkait dengan dasar hukum dari pembentukan
+                           suatu organisasi (badan hukum), juga kewajiban organisasi untuk
+                           menjelaskan tujuan mereka, kegiatan, organ di bawahnya, serta
+                           pendanaan mereka, merupakan bagian dari tindakan pembatasan dengan
+                           alasan ketertiban umum. Negara atau badan negara yang
+                           bertanggungjawab untuk menjaga ketertiban umum harus dapat dikontrol
+                           dalam penggunaan kekuasaan mereka melalui parlemen, pengadilan atau
+                           badan independen lain yang kompeten, seperti Komnas HAM RI atau
+                           Ombudsman.
+     Moral Publik          Negara harus menunjukkan bahwa pembatasan itu memang sangat
+                           penting      bagi     terpeliharanya      nilai-nilai  mendasar      dari
+                           masyarakat/komunitas. Dalam hal ini, negara memiliki diskresi untuk
+                           menggunakan alasan moral masyarakat, namun klausul ini tidak boleh
+                           menyimpang dari maksud dan tujuan KIHSP. Dalam praktiknya, frasa ini
+                           juga tidak mudah untuk diterjemahkan, karena moral itu sendiri dimaknai
+                           secara berbeda-beda oleh satu masyarakat dengan masyarakat lainnya.
+                           Oleh karena itu, bila negara menggunakan frasa ini sebagai alasan untuk
+                           membatasi hak, maka negara tersebut harus menunjukkan bahwa
+                           pembatasan itu memang sangat esensial bagi terpeliharanya nilai-nilai
+                           mendasar komunitas. Dalam hal ini negara memang memiliki ‘diskresi’
+                           untuk menggunakan alasan moral publik, karena ketiadaan konsep yang
+                           jelas tentang moral itu sendiri. Pembatasan menggunakan alasan moral
+                           publik tidak boleh dilakukan dengan sewenang-wenang, serta harus
+                           membuka kemungkinan adanya gugatan dan menyediakan adanya sarana
+                           pemulihan bila ada penyalahgunaan penerapan pembatasan. Harus
+                           ditekankan pula, meskipun negara memiliki ‘diskresi’ dalam
+                           penerapannya, hal itu tidak berlaku pada aturan terkait dengan ‘non-
+                           diskriminasi’ yang ada pada KIHSP.
+     Kesehatan             Klausul ini digunakan untuk mengambil langkah-langkah penanganan
+     Publik                atas sebuah ancaman yang bersifat serius terhadap kesehatan masyarakat
+                           atau pun anggota masyarakat. Namun, langkah pembatasan ini harus
+                           diletakkan dalam konteks pencegahan penyakit atau kecelakaan atau
+                           dalam rangka menyediakan layanan kesehatan bagi mereka yang terluka
+                           atau sakit. Dalam hal ini negara harus mengacu pada aturan kesehatan
+                           internasional dari WHO.
+     Hak dan               Ketika terjadi konflik antar-hak (antinomy), maka harus diutamakan hak
+     Kebebasan             dan kebebasan yang paling mendasar. Klausul ini tidak bisa digunakan
+
+Standar Norma dan Pengaturan Nomor 3                                                            34
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     Orang Lain     untuk melindungi negara dan aparatnya dari kritik dan opini publik.
+                    Konflik hak mungkin terjadi antara suatu organisasi buruh dengan
+                    seorang buruh. Dan bila ini terjadi maka negara dapat membatasi
+                    kebebasan berorganisasi, untuk melindungi hak seorang buruh tersebut,
+                    hanya bila praktik organisasi buruh dimaksud telah melanggar cara yang
+                    biasanya diterima dalam masyarakat yang demokratis.
+
+138. Selain mengacu pada ketentuan Pasal 22 ayat (2) KIHSP, negara tidak boleh melakukan
+     tindakan pembatasan-pembatasan lainnya, yang dapat mengganggu jalannya suatu
+     organisasi, sebagai perwujudan dari kebebasannya. Dalam hal ini, pihak berwenang
+     harus menghormati hak atas privasi atau urusan internal dari suatu organisasi
+     sebagaimana diatur Pasal 17 KIHSP. Diantaranya pemerintah tidak berhak untuk:
+         (i)    membuat keputusan mengenai syarat dan kegiatan organisasi;
+         (ii) mengatur atau membalikkan pemilihan kepengurusan suatu organisasi;
+         (iii) mengatur syarat-syarat validitas pengurus organisasi;
+         (iv) mengirimkan wakil pemerintah dalam pertemuan pengurus organisasi untuk
+               meminta penarikan keputusan internal organisasi;
+         (v) meminta menyerahkan laporan tahunan di awal; dan
+         (vi) memasukkan tempat atau kategorisasi organisasi tanpa pemberitahuan terlebih
+               dahulu.
+
+139. Masalah lain       yang kerap       mengemuka      dalam pembatasan kebebasan
+     berserikat/berorganisasi di Indonesia adalah tindakan pembatasan yang dilakukan
+     terhadap organisasi keagamaan. Secara hukum, terhadap organisasi keagamaan juga
+     berlaku syarat dan prosedur dan pembatasan yang sama dengan organisasi-organisasi
+     lainnya, dalam koridor pelaksanaan kebebasan berorganisasi. Problemnya, di dalam
+     organisasi keagamaan juga terdapat dimensi yang terkait dengan kebebasan beragama
+     atau berkeyakinan. Berbeda dengan kebebasan berorganisasi, berdasarkan Pasal 18
+     KIHSP, kebebasan beragama/berkeyakinan merupakan bagian dari hak asasi manusia
+     yang tidak dapat dikurangi dalam keadaan apapun (non-derogable rights).39 Terhadap
+     kebebasan berorganisasi masih dimungkinkan pembatasan atau pengurangan
+     berdasarkan Pasal 22 ayat (2) KIHSP. Hal inilah yang kerap menciptakan konflik ketika
+     negara akan melakukan tindakan pembatasan terhadap organisasi keagamaan dengan
+     mengatasnamakan hukum yang berlaku, dikarenakan antinomi kedua hak tersebut—
+     kebebasan berorganisasi dengan kebebasan beragama/berkeyakinan.
+
+
+
+      39 Menurut Komentar Umum No. 22 KIHSP dikatakan bahwa hak beragama
+
+dan berkeyakinan, mencakup kebebasan berpikir mengenai segala hal,
+kepercayaan pribadi, dan komitmen terhadap agama atau kepercayaan, baik
+yang dilakukan secara individual maupun bersama-sama dengan orang lain.
+Hak ini tidak dapat dikurangi bahkan pada saat darurat publik, sebagaimana
+dinyatakan pada Pasal 4 KIHSP.
+
+35                                                  Standar Norma dan Pengaturan Nomor 3
+                                                    Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+140. Dalam konteks kebebasan beragama/berkeyakinan terdapat dimensi individual dan
+     dimensi kolektif. Dimensi individual merupakan wilayah spiritual seseorang yang sangat
+     privat atau disebut juga sebagai wilayah internum. Selain hak untuk memilih atau
+     mengganti agama dan keyakinan, wilayah internum mencakup pula hak untuk
+     melaksanakan agama dan keyakinannya di dalam lingkup privat. Paksaan dari luar tidak
+     mungkin dapat dilakukan. Oleh karena itu pula, pembatasan atas wilayah ini pun tidak
+     mungkin dilakukan, seperti halnya dinyatakan oleh KIHSP. Terhadap perbuatan yang
+     masuk dalam kualifikasi manifestasi dari suatu ajaran agama atau keyakinan pada ruang
+     publik (dimensi kolektif), negara dapat melakukan pembatasan. Wilayah ini disebut
+     sebagai wilayah eksternum, yang merupakan manifestasi beragama atau berkeyakinan di
+     ruang publik. Tegasnya terhadap organisasi keagamaan, tindakan pembatasan hanya
+     dimungkinkan untuk dilakukan pada wilayah-wilayah yang masuk kategori eksternum
+     (dimensi kolektif) yang sifatnya publik.
+
+                                           VII. UJI PROPORSIONALITAS
+
+A. Uji Proporsionalitas Berkumpul
+
+141. Kebebasan berkumpul secara damai dapat dibatasi melalui beberapa persyaratan,
+     misalnya: “berkesesuaian dengan hukum/perundang-undangan; diperlukan dalam
+     bingkai negara demokrasi; kepentingan keamanan negara, ketertiban umum,
+     perlindungan terhadap kesehatan publik dan nilai-nilai moralitas, dan perhormatan
+     terhadap hak dan kebebasan orang lain” 40. Pemerintah dalam menafsirkan syarat-syarat
+     pembatasan tersebut harus melakukan pengujian atas prinsip proporsionalitas, dibatasi
+     dengan alasan yang jelas dan pasti (certain), bukan berupa prasangka subjektif
+     pemerintah atau mayoritas, dan non-diskriminasi dalam implementasinya.
+
+142. Prinsip proporsionalitas menyebutkan bahwa otoritas yang berwenang (kepolisian) tidak
+     dapat secara rutin atau berkelanjutan melarang (restriction) yang secara fundamental
+     menggerus karakter dan/atau tujuan utama dari kegiatan berkumpul. Sebagai contoh,
+     kepolisian tidak dapat memindahkan tempat berkumpul (demonstrasi atau unjuk rasa)
+     yang bertujuan mengekspresikan kekecewaan masa di suatu tempat atau lingkungan
+     tertentu.
+
+143. Kepolisian dalam mengurangi dan membatasi atau melarang atau membubarkan suatu
+     kegiatan berkumpul harus memperhatikan tujuan pembatasan yang berorientasi pada
+     perlindungan hak-hak masyarakat lain (right based). Langkah-langkah yang diambil
+     harus memperhatikan prinsip akuntabilitas dengan bertindak secara profesional dan
+     bertanggung jawab.
+
+
+         40
+         The International Covenant on Civil and Political Rights (ICCPR),
+Pasal 21.
+
+Standar Norma dan Pengaturan Nomor 3                                                    36
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+144. Pembatasan yang perlu dan dibutuhkan dalam masyarakat demokrasi dilakukan minimal
+     dengan:
+       a. larangan atau pembatasan atas konten kegiatan perkumpulan yang buruk (content-
+          based restriction). Kepolisian dapat membatasi atau melarang atau membubarkan
+          suatu kegiatan berkumpul apabila telah nampak ancaman kekerasan yang nyata
+          (the existence of the eminent threat of violence) terutama dalam materi pidato yang
+          jelas bertujuan memancing kekerasan. Misalnya, mempromosikan doktrin
+          supremasi ras tertentu.41
+       b. larangan atau pembatasan harus melihat konteks waktu (time), tempat (place) dan
+          adab kepantasan (manner). Kegiatan berkumpul dapat dibatasi atau dikurangi
+          apabila berbarengan dengan waktu yang tidak memungkinkan untuk
+          dilaksanakannya kegiatan berkumpul. Kegiatan berkumpul yang telah melebihi
+          batas waktu yang telah ditentukan oleh perundang-undangan dapat dilanjutkan
+          apabila ada jaminan dari panitia kegiatan berkumpul bahwa kegiatan berkumpul
+          tersebut berniat damai, memiliki resiko rendah/kecil dan tidak mengganggu
+          keselamatan dan kepentingan publik. Tempat penyelenggaran kegiatan juga harus
+          mempertimbangkan aspek keselamatan publik dan keamanan negara. Kegiatan
+          berkumpul pasti menyasar pendengar (audience) tertentu, apabila target pendengar
+          merasa pesan yang disampaikan tidak pantas atau salah menyasar pendengar
+          (irrelevant), maka tujuan berkumpul sendiri tidaklah efektif, sehingga dapat
+          dibatasi. 42
+       c. sebelum melakukan tindakan pembatasan, aparat kepolisian harus melakukan
+          penelitian yang berdasar pada data dan fakta yang jelas bahwa apabila larangan
+          tidak dilakukan akan terjadi resiko yang lebih besar (risk-based assessment).
+          Resiko atau ancaman yang akan muncul dalam kebebasan tersebut harus bersifat
+          nyata (clear and present danger), berdampak luas (massive) dan tidak dapat
+          ditolerir dalam nalar kemanusian (shocking human conscience). Dengan kata lain,
+          larangan atau pembatasan kegiatan harus secara tegas dan meyakinkan
+          (convincingly established) dapat mencegah eskalasi kebencian dan keonaran
+          publik.43
+
+145. Kepolisian atau pihak lain dalam pengambil keputusan tindakan pembatasan atas hak
+     kebebasan berkumpul harus memperhatikan semua aspek-aspek di atas (kumulatif),
+     langkah-langkah (means) dan alasan (reasoning) pengambilan keputusan pelarangan
+     harus dapat diakses publik dan dikritik lewat medium yang demokratis dan kesetaraan
+
+       41Putusan Grand Chamber Pengadilan Hak Asasi Manusia Eropa United
+Communist Party of Turkey and Others v. Turkey (133/1996/752/951), para.
+47; Putusan Socialist Party and Others v. Turkey (20/1997/804/1007), para.
+44; Putusan Freedom and Democracy Party (ÖZDEP) v. Turkey (application no.
+23885/94), para. 39.
+      42 Guidelines on Freedom of Peaceful Assembly, ODIHR, 2010, p. 37.
+      43 Dennis v. United States, 341 US 494 (1951), hal. 509
+
+
+37                                                    Standar Norma dan Pengaturan Nomor 3
+                                                      Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     dalam hukum. Sebelum pengambilan kebijakan, kepolisan harus melakukan upaya
+     dialog dengan panitia dan peserta kegiatan berkumpul. Hal teknis terkait prosedur dan
+     mekanisme pembatasan diatur dalam SOP yang dalam proses perumusannya melibatkan
+     partisipasi masyarakat luas dan telah lulus uji publik.
+
+146. Kebebasan dalam berkumpul dibatasi dalam beberapa ketentuan-ketentuan. Batasan dari
+     kegiatan berkumpul adalah kebebasan orang lain atau publik yang dapat
+     terpengaruh/terganggu oleh kegiatan berkumpul tersebut. Kepentingan publik dapat
+     membatasi dan mengurangi derajat dari kebebasan berkumpul. Namun
+     negara/pemerintah, dalam hal ini aparat keamanan, memiliki tanggung jawab untuk
+     memastikan bahwa kedua kepentingan: kepentingan untuk berkumpul dan menyuarakan
+     pendapat, dan kepentingan publik dapat berjalan beriringan dengan membuat suatu
+     mekanisme khusus, semisal mengganti rute jalan atau memberi tambahan personil polisi
+     lalu lintas untuk menghindari kemacetan karena ada kegiatan berkumpul (demonstrasi).
+
+147. Aparat kepolisian harus membuat laporan terkait kegunaan alat dan sarana yang
+     digunakan dan alasan diskresi untuk membubaran kegiatan berkumpul pasca
+     pengamanan kegiatan berkumpul. Laporan tersebut harus dapat diakses oleh publik
+     untuk kepentingan publik.
+
+B. Uji Proporsionalitas Berorganisasi
+
+148. Pada bagian yang menjelaskan mengenai pembatasan kebebasan berorganisasi telah
+     disinggung perihal syarat proporsional dalam melakukan suatu tindakan pembatasan.
+     Syarat ini terkait erat dengan ukuran pertimbangan yang pasti untuk melakukan suatu
+     intervensi terhadap kebebasan. Prinsip proporsionalitas memastikan bahwa campur
+     tangan negara dalam pelaksanaan kebebasan fundamental tidak melebihi batas-batas
+     kebutuhan dalam masyarakat demokratis, dan menuntut keseimbangan yang wajar antara
+     semua kepentingan yang berlawanan dan bahwa cara yang dipilih menjadi cara yang
+     paling tidak membatasi untuk melayani kepentingan tersebut. Oleh karenanya, uji
+     proporsionalitas menjadi kunci ketika negara akan melakukan langkah-langkah
+     pembatasan terhadap kebebasan berorganisasi.
+
+149. Penerapan prinsip proposionalitas harus mengukur setidaknya tiga hal berikut:
+     kesesuaian (geeignetheit), yaitu penerapan cara yang benar-benar untuk mencapai hasil
+     yang diinginkan; keperluan (erforderlichkeit) dengan asumsi bahwa tindakan yang
+     dilakukan seminimal mungkin akan membahayakan pelaksanaan hak-hak;
+     proporsionalitas dalam arti yang ketat (zumutbarkeit, angemessenheit, proporlionalitat)
+     yang berarti pembatasan hak-hak fundamental harus dalam paritas optimal dengan nilai-
+     nilai publik yang dilindungi.
+
+
+
+Standar Norma dan Pengaturan Nomor 3                                                     38
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+150. Mengacu pada praktik di berbagai negara dan sejumlah putusan peradilan, uji
+     proporsionalitas diukur dengan elemen-elemen yang meliputi: (i) harus ada tujuan yang
+     sah untuk suatu tindakan; (ii) instrumen tindakan yang digunakan harus sesuai untuk
+     mencapai tujuan (dibuktikan dengan suatu tes potensi, bahwa ketika tindakan itu
+     dilakukan, dampaknya tidak melampaui tujuan yang akan dicapai); (iii) instrumen
+     tindakan itulah yang diperlukan atau dapat digunakan untuk mencapai tujuan, dan tidak
+     mungkin ada cara lain yang lebih mudah digunakan untuk mencapainya; dan (iv)
+     instrumen tindakan yang diambil harus masuk akal, mengingat adanya banyak
+     kepentingan yang bersaing dari berbagai kelompok yang ada, dan harus dinegosiasikan
+     atau diseimbangkan satu dengan lainnya.
+
+151. Untuk menguji prinsip proporsionalitas dapat dilakukan dengan empat tahapan tes, yang
+     terdiri dari: tujuan yang sah, kesesuaian, pembatasan yang tidak terlaku ketat, dan
+     penyeimbangan. Empat tahapan tes ini dimaksudkan untuk mencapai keseimbangan
+     optimal antara nilai-nilai atau hak-hak yang sifatnya individual dengan yang publik.
+
+152. Syarat tujuan yang sah dipertimbangkan dalam lingkup persyaratan kewajaran, yang
+     mengacu pada argumen atau dasar hukum yang membenarkan pembatasan hak. Oleh
+     karenanya, otoritas nasional harus membuktikan bahwa tindakan membatasi hak-hak
+     dasar adalah sesuai dengan tujuan yang sah dan ada dasar hukumnya. Hanya tujuan
+     publik yang benar-benar penting dan sah yang memberikan pembenaran bagi suatu
+     tindakan pembatasan, sehingga dapat diterima. Tindakan pembatasan tidak boleh
+     dilakukan untuk suatu kepentingan yang ilegal atau prasangka sosial.
+
+153. Syarat kesesuaian berarti memeriksa kemungkinan utama pencapaian dengan tujuan
+     yang diinginkan. Antara pilihan instrumen dalam melakukan pembatasan dan tujuannya
+     harus dalam hubungan yang masuk akal. Elemen ini mengandaikan pengujian
+     kemungkinan potensi dampak yang akan terjadi jika tindakan pembatasan tersebut
+     dipilih apakah akan mencapai tujuan yang diinginkan. Hubungan antara tindakan
+     pembatasan dan tujuan haruslah rasional dan tidak mengarah pada hasil yang abstrak
+     atau tidak masuk akal (uji rasionalitas).
+
+154. Syarat minimal mengasumsikan keberadaan dan pilihan cara pembatasan yang dipilih
+     tidak terlalu membatasi hak, sehingga kerugian yang ditimbulkan pada pemegang hak
+     lebih kecil daripada keuntungan yang diterima dari kemungkinan penyalahgunaan dalam
+     pelaksanaan pembatasan. Hal ini menandakan bahwa sebelum dilakukan pembatasan
+     terlebih dahulu harus dibuktikan pembatasan itu sangat dibutuhkan untuk mencapai
+     suatu tujuan, sehingga tes ini juga sering dikenal sebagai kebutuhan.
+
+155. Syarat penyeimbangan (proporsionalitas dalam arti ketat) diarahkan pada keseimbangan
+     nilai individu dan publik yang saling berbenturan. Artinya, dalam tindakan pembatasan,
+     keuntungan yang diperoleh dari tindakan pembatasan tidak boleh lebih besar dari upaya
+
+39                                                   Standar Norma dan Pengaturan Nomor 3
+                                                     Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+      pencegahan penyalahgunaan dari tindakan pembatasan tersebut. Hal ini dimaksudkan
+      untuk mencapai keseimbangan optimal antara hak individu dan kepentingan publik. Hak
+      yang bertentangan dengan kepentingan publik harus dipertimbangkan dalam skala nilai
+      yang ditetapkan oleh peraturan perundang-undangan. Tes penyeimbangan melibatkan
+      dua nilai yang saling bersaing, hak fundamental di satu sisi, dan kepentingan publik di
+      sisi lain.
+
+156. Secara teknis, ketika akan melakukan suatu tes proporsionalitas, dapat dibantu dengan
+     pertanyaan-pertanyaan berikut ini:
+          a. Mengapa hak seseorang dibatasi?
+          b. Apa masalah yang sedang ditangani dengan pembatasan hak seseorang?
+          c. Apakah pembatasan akan menyebabkan pengurangan masalah?
+          d. Apakah pembatasan itu melibatkan kebijakan yang sifatnya umum (blanket
+             policy) atau apakah memungkinkan berbagai kasus diperlakukan berbeda?
+          e. Apakah ada alternatif yang tidak terlalu ketat?
+          f. Sudahkah cukup perhatian diberikan pada hak dan kepentingan mereka yang
+             terkena dampak?
+          g. Apakah ada perlindungan terhadap pelanggaran atau penyalahgunaan?
+
+157. Untuk menguji proporsionalitas dari suatu tindakan pembatasan yang akan dilakukan,
+     juga menggunakan pendekatan berbasis risiko (risk-based approach). Pendekatan ini
+     dimaksudkan untuk melakukan uji tuntas yang harus mencerminkan tingkat risiko yang
+     dihadapi ketika pembatasan itu dilakukan, yang meliputi semua aspek dan pihak yang
+     akan terkena dampak. Dengan mengidentifikasi risiko-risiko ini, dapat ditentukan
+     kebijakan dan prosedur yang sebanding dengan risiko-risiko itu. Tahapan dalam
+     penggunaan pendekatan berbasis risiko secara sederhana dapat dipilah menjadi empat
+     proses berikut: (i) identifikasi dan penilaian risiko; (ii) mitigasi dan manajemen risiko;
+     (iii) monitoring; dan (iv) dokumentasi.
+
+                                      VIII.        KEWAJIBAN NEGARA
+
+158. Kewajiban negara dipilah ke dalam tiga tahapan, yakni:
+    (i) kewajiban penghormatan (to respect), yang menekankan agar negara menahan diri
+         untuk tidak melakukan intervensi, kecuali atas dasar hukum yang sah;
+    (ii) kewajiban perlindungan (to protect), menekankan negara untuk melindungi hak, baik
+         terhadap pelanggaran yang dilakukan aparat negara maupun pelanggaran atau
+         tindakan yang dilakukan oleh entitas atau pihak non-negara, termasuk individu;
+    (iii)kewajiban memenuhi (to fulfill), memberikan kewajiban bagi negara untuk
+         mengambil langkah-langkah legislatif, administratif, yudisial, dan praktis, yang perlu
+         untuk menjamin pelaksanaan hak asasi manusia sebesar mungkin.
+
+
+
+ Standar Norma dan Pengaturan Nomor 3                                                       40
+ Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+159. Berdasarkan KIHSP, kewajiban negara dapat dipilah ke dalam kedua kategori:
+     kewajiban positif dan kewajiban negatif.
+
+160. Kewajiban positif adalah kewajiban negara untuk mengambil langkah-langkah guna
+     melindungi hak yang disebut dalam KIHSP. Negara mempunyai kewajiban untuk
+     melindungi hak yang ada dalam KIHSP, bukan hanya terhadap pelanggaran yang
+     dilakukan oleh negara, namun juga terhadap pelanggaran atau tindakan yang dilakukan
+     oleh entitas atau pihak lain (non-negara, termasuk korporasi), yang akan menganggu
+     perlindungan hak. Kewajiban negatif adalah bahwa negara harus menahan diri untuk
+     tidak melanggar hak asasi manusia yang dilindungi oleh KIHSP.
+
+161. Kebebasan berorganisasi merupakan salah satu hak yang masuk dalam zona irisan antara
+     hak sipil dan politik. Fungsi demokratis hak ini memberikan kewajiban yang lebih besar
+     pada negara untuk menjamin terlaksananya hak-hak tersebut, dengan tindakan-tindakan
+     dan langkah-langkah untuk melakukan sesuatu, guna menjamin pelaksanaannya.
+     Kewajiban positif negara berkaitan dengan hak-hak berorganisasi, meliputi kewajiban
+     untuk menyediakan perlindungan hukum, misalnya dengan membuat aturan.
+
+162. Negara mempunyai kewajiban negatif, yaitu bahwa negara harus menahan diri supaya
+     tidak melanggar hak asasi manusia yang dilindungi oleh KIHSP. Pembatasan memang
+     diperbolehkan, namun negara harus menunjukkan bahwa pembatasan itu memang
+     diperlukan dan dilakukan secara proporsional. Pembatasan juga harus tetap menjamin
+     perlindungan hak asasi manusia tetap efektif dan terus-menerus, serta tidak boleh
+     dilakukan dengan cara yang dapat mengancam terlindunginya hak tersebut. Negara juga
+     mempunyai kewajiban untuk melindungi hak yang tercantum dalam KIHSP dari
+     intervensi pihak ketiga. 44
+
+163. Negara memiliki kewajiban positif untuk memberlakukan undang-undang dan/atau
+     menerapkan praktik untuk melindungi hak kebebasan berorganisasi dari intervensi aktor
+     non-negara, selain menahan diri dari campur tangan negara itu sendiri. Prinsip ini meluas
+     ke kasus-kasus pelanggaran yang dilakukan oleh setiap orang dan aktor non-negara yang
+     seharusnya dapat dicegah oleh negara. Kewajiban positif negara untuk memfasilitasi
+     pelaksanaan hak, mencakup menciptakan lingkungan yang memungkinkan di mana
+     kebebasan dapat dilaksanakan. Hal ini termasuk kewajiban untuk mengambil langkah-
+     langkah positif untuk mengatasi tantangan khusus yang dihadapi orang atau kelompok
+     tertentu, seperti masyarakat adat, kaum minoritas, penyandang disabilitas, perempuan
+     dan pemuda, dalam upaya mereka untuk berorganisasi. Ini berarti juga, peraturan
+     perundang-undangan harus menyederhanakan semua kondisi dan prosedur yang
+     berkaitan dengan berbagai kegiatan berkumpul dan kegiatan dari suatu organisasi.
+
+      44 Bossuyt, M.J., ‘Guide to the “Travaux Preparatories”                                   of the
+International Covenant on Civil and PoliticalRights’, Martinus                                  Nijhoff
+Publishers, Dordrecht/Boston/Lancaster, hal. 414-415.
+
+41                                                     Standar Norma dan Pengaturan Nomor 3
+                                                       Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+164. Dalam konteks Indonesia, perlu ada pembagian peran yang lebih rinci antara pemerintah
+     pusat dan pemerintah daerah, dalam pelaksanaan kewajiban negara terhadap hak asasi
+     manusia. Hal ini mengacu pada kategorisasi pembagian urusan pemerintahan, mengacu
+     pada ketentuan Pasal 9 UU Pemerintahan Daerah, yang dibagi menjadi tiga kelompok:
+     (i) urusan pemerintahan absolut, (ii) urusan pemerintahan konkuren, dan (iii) urusan
+     pemerintahan umum.
+
+165. Urusan pemerintahan umum merupakan manifestasi dari kewenangan Presiden selaku
+     kepala pemerintahan. UU Pemerintahan Daerah memberikan wewenang bagi kepala
+     daerah untuk menyelenggarakan urusan pemerintahan umum, sebagaimana diatur dalam
+     Pasal 25 UU Pemda. Dalam urusan pemerintahan umum, pemda berkoordinasi dengan
+     pemerintah pusat diberikan tugas dan wewenang yang berkaitan antara lain dengan
+     ketahanan nasional (pengamalan Pancasila, UUD RI 1945, Bhineka Tunggal Ika);
+     persatuan kesatuan; pembinaan kerukunan antarsuku dan intrasuku, umat beragama, ras,
+     dan golongan; penanganan konflik sosial; serta kehidupan demokrasi Pancasila.
+     Pembagian urusan pemerintahan umum adalah sebagai berikut.
+
+   Bentuk Urusan                                          Pembagian Urusan
+   Urusan Wajib             1.    Pemerintah pusat: pembuatan norma, kebijakan, dan standar;
+                                  peningkatan kapasitas aparat
+                            2.    Pemerintah provinsi: Penanganan gangguan ketenteraman dan
+                                  ketertiban umum lintas daerah, penegakan perda, pembinaan
+                            3.    Pemerintah provinsi: Penanganan gangguan ketenteraman dan
+                                  ketertiban umum di daerah, penegakan perda, pembinaan
+   Urusan                    1.   Pembinaan wawasan kebangsaan dan ketahanan nasional dalam
+   Pemerintahan                   rangka memantapkan pengamalan Pancasila, pelaksanaan Undang-
+   Umum                           Undang Dasar Negara Republik Indonesia Tahun 1945, pelestarian
+                                  Bhinneka Tunggal Ika serta pemerintahan dan pemeliharaan keutuhan
+                                  Negara Kesatuan Republik Indonesia;
+                             2.   Pembinaan persatuan dan kesatuan bangsa;
+                             3.   Pembinaan kerukunan antar-suku dan intra-suku, umat beragama, ras,
+                                  dan golongan lainnya guna mewujudkan stabilitas kemanan lokal,
+                                  regional, dan nasional;
+                             4.   Penanganan konflik sosial sesuai ketentuan peraturan perundang-
+                                  undangan.
+                             5.   Koordinasi pelaksanaan tugas antar-instansi pemerintahan yang ada di
+                                  wilayah Daerah provinsi dan Daerah kabupaten/kota untuk
+                                  menyelesaikan permasalahan yang timbul dengan memperhatikan
+                                  prinsip demokrasi, hak asasi manusia, pemerataan, keadilan,
+                                  keistimewaan dan kekhususan, potensi serta keanekaragaman Daerah
+                                  sesuai dengan ketentuan peraturan perundang-undangan;
+
+Standar Norma dan Pengaturan Nomor 3                                                              42
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+                     6. Pengembangan kehidupan demokrasi berdasarkan Pancasila;
+                     7. Pelaksanaan semua urusan pemerintahan yang bukan merupakan
+                        kewenangan daerah dan tidak dilaksanakan oleh instansi vertikal
+
+166. Berdasarkan pembagian peran dalam pelaksanaan kewajiban terhadap hak asasi manusia
+     di atas, khususnya yang terkait dengan pelaksanaan kebebasan berorganisai, wewenang
+     penuh, termasuk di dalamnya pembuatan peraturan dan pembatasan, terletak pada
+     pemerintah pusat. Tugas dan fungsi pemerintah daerah sebagai pelaksana yang harus
+     berkoordinasi dengan pemerintah pusat. Hal ini dikarenakan posisi hak atas kebebasan
+     berkumpul dan berorganisasi yang berada pada irisan antara hak sipil dan politik, yang
+     notabene seluruh kewenangan dalam urusan terkait dua hak tersebut ada pada
+     pemerintah pusat, bukan pemerintah daerah. Dengan kata lain, meski pemerintah daerah
+     berwenang untuk mengeluarkan peraturan daerah/peraturan kepala daerah, namun
+     materinya semata-mata untuk mengaplikasikan perintah dari undang-undang, tidak boleh
+     memunculkan norma yang sifatnya membatasi suatu hak dan kebebasan.
+
+      IX.    KEWENANGAN KOMISI NASIONAL HAK ASASI MANUSIA RI
+
+167. Negara Indonesia wajib memberikan perlindungan hak asasi manusia pada
+     penduduknya, termasuk hak untuk berkumpul dan berserikat/berorganisasi. Hak ini
+     dijamin dalam Pasal 28 E ayat (3) UUD RI 1945 dan Pasal 24 UU HAM.
+
+168. Komnas HAM RI adalah lembaga mandiri yang berwenang dan bertugas untuk
+     memenuhi, melindungi, dan menegakkan hak asasi manusia di Indonesia sesuai dengan
+     ideologi dan Konstitusi Indonesia, juga berdasarkan Piagam Perserikatan Bangsa-Bangsa
+     dan Deklarasi Umum Hak Asasi Manusia. Salah satu kewajiban Komnas HAM RI
+     adalah mengupayakan pemenuhan dan perlindungan terhadap hak berserikat dan
+     berkumpul sebagaimana yang dijamin dalam Pasal 24 UU HAM.
+
+169. Di dalam UU HAM, dalam menangani kasus atau pengaduan atau laporan tentang
+     pelanggaran atas hak berkumpul dan berorganisasi, Komnas HAM RI mempunyai
+     kewenangan melakukan:
+   1) Pemajuan Hak Asasi Manusia
+        Kewenangan tersebut merupakan tindakan preventif atau pencegahan oleh Komnas
+        HAM RI dalam upayanya turut memenuhi hak asasi manusia bagi penduduk
+        Indonesia, kewenangan ini dilaksanakan dengan cara:
+        a. Pengkajian dan penelitian, untuk menghasilkan hasil kajian dan riset yang
+           memberikan masukan dan rekomendasi untuk jangka panjang agar kehidupan
+           bernegara berlandaskan hak asasi manusia di Indonesia tanpa melupakan ideologi
+           negara yaitu Pancasila. Adapun rekomendasi yang disampaikan adalah berupa
+           pembentukan, perubahan dan atau pencabutan peraturan perundang-undangan dan
+           kebijakan di Indonesia agar sejalan dengan hak asasi manusia. Misalnya pada
+
+43                                                   Standar Norma dan Pengaturan Nomor 3
+                                                     Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+            2013, Komnas HAM RI pernah merekomendasikan agar dilakukan perubahan
+            terhadap UU Ormas agar sejalan dengan hak asasi manusia. Selain itu juga
+            rekomendasi untuk dilakukan ratifikasi dan aksesi terhadap instrumen HAM
+            internasional.
+         b. Pendidikan dan penyuluhan, diharapkan mewujudkan kehidupan kemanusiaan
+            bangsa Indonesia, yaitu mewujudkan manusia yang mampu memanusiakan
+            manusia lainnya melalui penyebarluasan wawasan kepada masyarakat dan
+            peningkatan kesadaran masyarakat tentang hak asasi manusia melalui berbagai
+            lembaga dan instansi formal dan non formal.
+
+    2) Penegakan Hak Asasi Manusia
+       Kewenangan tersebut adalah bagian dari tugas dan kewajiban Komnas HAM RI
+       untuk menangani kasus atau pengaduan yang dilaporkan kepada Komnas HAM RI,
+       dan kasus-kasus yang secara pro aktif diputuskan untuk ditangani oleh Komnas HAM
+       RI. Pelaksanaan kewenangannya melalui kegiatan:
+       a. Pemantauan dan penyelidikan, yang menghasilkan rekomendasi untuk lembaga
+           lain, misalnya kepolisian, pemerintah daerah, korporasi, kejaksaan, dan lain
+           sebagainya.
+       b. Mediasi, yang menghasilkan: (i) kesepakatan antara para pihak dan dapat
+           didaftarkan di Pengadilan untuk menguatkan legalitas kesepakatan; (ii) penutupan
+           kasus yang tidak menemukan kesepakatan atau tidak dapat dimediasi; (iii)
+           rekomendasi kepada pihak yang lebih tinggi apabila ada pihak wanprestasi atau
+           tidak tercapai kesepakatan atau tidak dapat dilaksanakan proses mediasi, misalnya
+           kepada Presiden atau DPR RI. Berkaitan dengan hak atas kebebasan berkumpul
+           dan berserikat/berorganisasi ini, Komnas HAM RI banyak melakukan mediasi
+           untuk kasus-kasus yang berkaitan dengan perburuhan.
+
+170. Berdasarkan Pasal 76 ayat (1) jo Pasal 89 ayat (3) dan (4) UU HAM, Komnas HAM RI
+     dapat menangani permasalahan pembatasan atau larangan melakukan kegiatan
+     berkumpul dan berorganisasi apabila:
+     a. Ada laporan atau pengaduan korban atau pendampingnya kepada Komnas HAM RI;
+         atau
+     b. Tindakan pro aktif dalam penanganan kasus-kasus berkumpul dan berorganisasi
+         apabila dinilai: (i) berdampak nasional; (ii) menyangkut keamanan jiwa korban; (iii)
+         kasus darurat.
+
+171. Penanganan kasus atau laporan atau pengaduan mengenai peristiwa pelarangan atau
+     pembatasan berkumpul dan berorganisasi ini melalui mekanisme pemantauan
+     sebagaimana ditetapkan dalam Pasal 89 ayat (3) UU HAM. Penanganan dengan fungsi
+     pemantauan dan penyelidikan adalah dengan cara sebagai berikut:
+     a. Pengamatan pelaksanaan hak berkumpul dan berorganisasi yang kemudian
+        dituangkan dengan menyusun laporan hasil pengamatan tersebut;
+
+Standar Norma dan Pengaturan Nomor 3                                                      44
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+     b. Penyelidikan dan pemeriksaan terhadap peristiwa pelarangan atau pembatasan
+        berkumpul dan berorganisasi yang timbul dalam masyarakat;
+     c. Pemanggilan kepada para pihak dan saksi untuk dimintai dan didengar
+        keterangannya;
+     d. Peninjauan di tempat kejadian dan tempat lainnya yang dianggap perlu;
+     e. Meminta dokumen yang diperlukan kepada para pihak sesuai dengan aslinya dengan
+        persetujuan Ketua Pengadilan;
+     f. Pemberian pendapat berdasarkan persetujuan Ketua Pengadilan terhadap perkara
+        tertentu yang sedang dalam proses peradilan.
+
+172. Selain pemantauan dan penyelidikan, penanganan kasus atau laporan atau pengaduan ke
+     Komnas HAM RI dapat diproses melalui mediasi sebagaimana ditetapkan oleh Pasal 89
+     ayat (4) UU HAM. Proses ini dilaksanakan dengan cara:
+       a. Perdamaian kedua belah pihak;
+       b. Penyelesaian melalui konsultasi, negosiasi, mediasi, konsiliasi, dan penilaian ahli;
+       c. Pemberian saran kepada para pihak melalui pengadilan;
+       d. Penyampaian rekomendasi kepada Pemerintah untuk ditindaklanjuti
+           penyelesaiannya;
+       e. Penyampaian rekomendasi kepada DPR RI untuk ditindaklanjuti.
+
+173. Berdasarkan Pasal 76 ayat (1) jo. Pasal 89 ayat (1) UU HAM, Komnas HAM RI dalam
+     menjalankan fungsi pengkajian dan penelitian berwenang melakukan:
+      a. Pengkajian dan penelitian berbagai instrumen internasional hak asasi manusia
+          untuk memberikan saran mengenai kemungkinan aksesi dan atau ratifikasi aturan-
+          aturan yang berkaitan dengan hak yang dimaksud;
+      b. Memberikan rekomendasi mengenai pembentukan, perubahan, dan pencabutan
+          peraturan perundang-undangan yang berkaitan;
+      c. Studi kepustakaan, studi lapangan dan studi banding di negara lain mengenai hak
+          yang dimaksud, termasuk kerjasama dengan organisasi atau lembaga atau pihak
+          lain nasional, regional, maupun internasional dalam melaksanakan pengkajian
+          dan/atau penelitian atas hak tersebut;
+      d. Pembahasan berbagai masalah yang berkaitan dengan perlindungan, penegakan,
+          dan pemajuan hak asasi manusia; dan
+
+174. Pelaksanaan pendidikan dan penyuluhan sebagaimana yang diamanatkan dalam Pasal 76
+     ayat (1) jo. 89 ayat (2) UU HAM adalah dengan melakukan penyebaran luasan
+     pengetahuan dan pemahaman tentang perlindungan dan pelanggaran atas hak berkumpul
+     dan berorganisasi yang dialami para peserta didik dan suluh. Penyebarluasan ini dapat
+     dilaksanakan dengan cara:
+        a. Melalui lembaga pendidikan formal dan non-formal serta berbagai kalangan
+            lainnya.
+
+
+45                                                    Standar Norma dan Pengaturan Nomor 3
+                                                      Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+         b. Kerja sama dengan organisasi, lembaga atau pihak lainnya, baik di tingkat
+            nasional, regional, maupun internasional dalam bidang hak asasi manusia.
+
+175. Tata cara pelaksanaan kewenangan pemantauan Komnas HAM RI dalam perlindungan
+     hak berorganisasi dan berkumpul meliputi:
+       a. Menerima pengaduan atau proaktif.
+       b. Memeriksa pengaduan atau peristiwa yang diduga merupakan pelanggaran atas
+          kebebasan berkumpul dan/atau berorganisasi.
+       c. Menganalisis seluruh data dan dokumen.
+       d. Membuat laporan termasuk kesimpulan atas peristiwa yang diduga pelanggaran
+          hak berkumpul dan/atau berorganisasi.
+       e. Mengeluarkan rekomendasi.
+       f. Memantau pelaksanaan rekomendasi melalui instrumen yang ada pada Komnas
+          HAM RI, yaitu kepatuhan terhadap rekomendasi terhadap pihak-pihak berwenang
+          yang wajib menjamin hak kebebasan berkumpul dan/atau berorganisasi ini.
+
+176. Dalam konteks hukum Internasional, sesuai Pasal 40 KIHSP, sebagai negara pihak
+     dalam KIHSP, Indonesia mempunyai kewajiban untuk menyerahkan laporan mengenai
+     langkah-langkah yang diambil dalam memberlakukan hak-hak yang diakui dalam
+     kovenan ini dan mengenai perkembangan yang telah dicapai dalam pemenuhan hak-hak
+     tersebut. Sebagai National Human Rights Institution, Komnas HAM RI dapat
+     menyampaikan laporan pula mengenai langkah-langkah yang telah diambil oleh
+     pemerintah Indonesia untuk memastikan terpenuhinya hak berkumpul dan berserikat/
+     berorganisasi. Laporan Komnas HAM RI dapat didasarkan pada pengaduan yang
+     diterima oleh Komnas HAM RI dan analisa terhadap peraturan dan kebijakan yang
+     diterapkan oleh pemerintah Indonesia.
+
+177. Selain melalui mekanisme laporan dalam KIHSP, Komnas HAM RI juga dapat membuat
+     laporan mengenai kondisi pemenuhan hak warga negara Indonesia, khususnya dalam hal
+     hak berkumpul dan berserikat/berorganisasi melalui mekanisme Universal Periodic
+     Review (UPR) yang disampaikan empat tahun sekali kepada Dewan HAM PBB.
+
+
+
+
+Standar Norma dan Pengaturan Nomor 3                                                 46
+Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+                        LAMPIRAN
+
+        PERATURAN KOMISI NASIONAL HAK ASASI MANUSIA
+        REPUBLIK INDONESIA NOMOR 6 TAHUN 2020 TENTANG
+     PENGESAHAN STANDAR NORMA DAN PENGATURAN TENTANG
+      HAK ATAS KEBEBASAN BERKUMPUL DAN BERORGANISASI
+
+
+
+
+47                               Standar Norma dan Pengaturan Nomor 3
+                                 Tentang Hak atas Kebebasan Berkumpul dan Berorganisasi
+          KOMISI NASIONAL HAK ASASI MANUSIA
+                 REPUBLIK INDONESIA
+      Jalan Latuharhary No.4B Menteng Jakarta Pusat 10310, Telp. 021-3925230, Fax.021-3925227
+                    website: www.komnasham.go.id email: info@komnasham.go.id
+
+
+PERATURAN KOMISI NASIONAL HAK ASASI MANUSIA REPUBLIK INDONESIA
+
+                               NOMOR 6 TAHUN2020
+                                         TENTANG
+
+ PENGESAHAN STANDAR NORMA DAN PENGATURAN TENTANG HAK ATAS
+              KEBEBASAN BERKUMPUL DAN BERORGANISASI
+
+
+
+                 DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+
+
+  KETUA KOMISI NASIONAL HAK ASASI MANUSIA REPUBLIK INDONESIA,
+
+
+
+Menimbang       ;         a. bahwa hak untuk berkumpul dan berorganisasi
+                              secara damai merupakan hak asasi manusia dan
+                               menjadi        unsur       esensial       dalam        masyarakat
+                              demokratis;
+                          b. bahwa berdasarkan data Komisi Nasional Hak Asasi
+
+                               Manusia Republik Indonesia, pelanggaran terhadap
+                               hak atas kebebasan berkumpul dan berorganisasi
+                               di Indonesia sering terjadi dan memiliki potensi
+                               keterulangan;
+                          c. bahwa penyusunan Standar Norma dan Pengaturan
+                              tentang Hak atas               Kebebasan         Berkumpul dan
+                              Berorganisasi didasari atas kebutuhan pemaknaan,
+                               penilaian, dan petunjuk atas kaidah - kaidah dan
+                               peristiwa        hak       kebebasan          berkumpul          dan
+                              berorganisasi yang teijadi di masyarakat;
+                          d. bahwa Sidang Paripuma Komnas HAM RI pada 3
+                               Maret 2020 telah mengesahkan Standar Norma dan
+                              Pengaturan           tentang        Hak        atas      Kebebasan
+                              Berkumpul dan Berorganisasi;
+             e. bahwa berdasarkan       pertimbangan sebagaimana
+                dimaksud dalam huruf a sampai dengan huruf d,
+                perlu menetapkan Peraturan Komisi Nasional Hak
+                Asasi    Manusia    Republik    Indonesia       tentang
+                Pengesahan    Standar       Norma   dan    Pengaturan
+                tentang Hak atas Kebebasan          Berkumpul dan
+                Berorganisasi;
+
+
+Mengingat    1. Undang - Undang Dasar Negara Republik Indonesia
+               Tahun 1945;
+
+             2. Undang - Undang Nomor 39 Tahun 1999 tentang
+               Hak Asasi Manusia;
+             3. Undang-Undang Nomor 11 Tahun 2005 tentang
+               Pengesahan Kovenan Intemasional tentang Hak
+               Ekonomi, Sosial dan Budaya(KIHESB);
+             4. Undang-Undang Nomor 12 Tahun 2005               tentang
+               Pengesahan Kovenan Intemasional tentang Hak
+               Sipil dan Politik (KIHSP);
+             5. Undang-Undang Nomor 12 Tahun 2011 tentang
+               Pembentukan Peraturan Perundang-undangan;
+             6. Ketetapan MPR Nomor XII/1998 tentang Hak Asasi
+               Manusia.
+
+
+
+                    MEMUTUSKAN
+
+
+
+
+Menetapkan   PERATURAN KOMISI NASIONAL HAK ASASI MANUSIA
+
+             REPUBLIK INDONESIA TENTANG STANDAR NORMA
+
+             DAN        PENGATURAN      TENTANG           HAK    ATAS
+
+             KEBEBASAN BERKUMPUL DAN BERORGANISASI
+                               Pasal 1
+
+
+
+(1) Standar Norma dan Pengaturan tentang Hak atas
+   Kebebasan          Berkumpul           dan        Berorganisasi
+   merupakan        penjelasan, tafsiran, dan elaborasi
+   mendalam yang disusun oleh Komisi Nasional Hak
+   Asasi      Manusia       Republik          Indonesia       untuk
+   menentukan         bentuk        -    bentuk         pelanggaran
+   dan/atau         pembatasan          hak    atas      kebebasan
+   berkumpul        dan     berorganisasi         sebagai     acuan
+   pelaksanaan sekaligus untuk menilai peraturan
+   kebijakan,       dan     tindakan       dalam        penikmatan
+   terhadap hak untuk berkumpul dan berorganisasi.
+(2) Salinan     naskah       asli       Standar      Norma     dan
+   Pengaturan        tentang        Hak       atas       Kebebasan
+   Berkumpul dan Berorganisasi terlampir dalam
+   Lampiran         yang     merupakan            bagian      tidak
+   terpisahkan dari Peraturan Komisi ini.
+
+
+                             Pasal 2
+
+
+
+Setelah penetapan Standar Norma dan Pengaturan
+Tentang       Hak    atas    Kebebasan         Berkumpul       dan
+ Berorganisasi ini:
+(1) setiap     penafsiran      dan        penanganan          kasus
+   pelanggaran hak asasi manusia terkait dengan hak
+   berkumpul         dan     berorganisasi         di     Indonesia
+   dilakukan        berdasarkan         Standar       Norma    dan
+
+   Pengaturan        tentang        Hak       atas       Kebebasan
+   Berkumpul dan Berorganisasi; dan
+  (2) Komisi Nasional Hak Asasi Manusia Republik
+     Indonesia        bekeija            sama          dengan
+     Kementerian/Lembaga        untuk      mengembangkan
+     Standar Norma dan Pengaturan tentang Hak atas
+     Kebebasan    Berkumpul       dan     Berorganisasi    ini
+     menjadi peraturan yang mengikat.
+
+
+                            Pasal 3
+
+
+
+Peraturan Komisi ini mulai berlaku pada tanggal yang
+diundangkan.
+
+
+  Agar setiap orang yang mengetahuinya, memerintahkan
+  pengundangan     Peraturan       Komisi        ini    dengan
+  penempatannya    dalam        Berita    Negara       Republik
+  Indonesia.
+
+
+
+
+        Ditetapkan di Jakarta
+       Pada tanggal    18                 loiD
+
+
+        KETUA^K(5Misi N^ONAL HAK ASASI MANUSIA
+        REPUBl:TK4NpON^IA,
+
+
+
+        AHMAD TAUFAN DAMANIK
