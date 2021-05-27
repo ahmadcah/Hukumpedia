@@ -1,79 +1,37 @@
-# Import libraries
-from PIL import Image
-import pytesseract
-from pdf2image import convert_from_path
+from PIL import Image as Pimage
+from wand.image import Image as Wimage
+import sys
+from io import BytesIO
+import pyocr.builders
+import glob
+import os
+import re
 
-# Creating a text file to write the output
-outfile = "out_text.txt"
+tools = pyocr.get_available_tools()
+if len(tools) == 0:
+    print("No OCR tool found")
+    sys.exit(1)
+tool = tools[0]
+print("Will use tool '%s'" % (tool.get_name()))
 
-# Open the file in append mode so that
-# All contents of all images are added to the same file
-f = open(outfile, "a")
-
-# Path of the pdf
-PDF_file = "../../Data/1597219926-peraturan-sekjen-komnas-ham-no-$E2L.pdf"
-
-'''
-Part #1 : Converting PDF to images
-'''
-
-# Store all the pages of the PDF in a variable
-pages = convert_from_path(PDF_file, 500)
-
-# Counter to store images of each page of PDF to image
-image_counter = 1
-
-# Iterate through all the pages stored above
-for page in pages:
-    # Declaring filename for each page of PDF as JPG
-    # For each page, filename will be:
-    # PDF page 1 -> page_1.jpg
-    # PDF page 2 -> page_2.jpg
-    # PDF page 3 -> page_3.jpg
-    # ....
-    # PDF page n -> page_n.jpg
-    filename = "page_" + str(image_counter) + ".jpg"
-
-    # Save the image of the page in system
-    page.save(filename, 'JPEG')
-
-    # Increment the counter to update filename
-    image_counter = image_counter + 1
-
-'''
-Part #2 - Recognizing text from the images using OCR
-'''
-3
-# Variable to get count of total number of pages
-filelimit = image_counter - 1
+langs = tool.get_available_languages()
+print("Available languages: %s" % ", ".join(langs))
+lang = langs[0]
+print("Will use lang '%s'" % lang)
 
 
-# Iterate from 1 to total number of pages
-for i in range(1, filelimit + 1):
-    # Set filename to recognize text from
-    # Again, these files will be:
-    # page_1.jpg
-    # page_2.jpg
-    # ....
-    # page_n.jpg
-    filename = "page_" + str(i) + ".jpg"
+def _convert_pdf2jpg(in_file_path: str, resolution: int = 300) -> Pimage:
+    with Wimage(filename=in_file_path, resolution=resolution).convert("jpg") as all_pages:
+        for page in all_pages.sequence:
+            with Wimage(page) as single_page_image:
+                yield Pimage.open(BytesIO(bytearray(single_page_image.make_blob(format="jpeg"))))
 
-    # Recognize the text as string in image using pytesserct
-    text = str(((pytesseract.image_to_string(Image.open(filename)))))
 
-    # The recognized text is stored in variable text
-    # Any string processing may be applied on text
-    # Here, basic formatting has been done:
-    # In many PDFs, at line ending, if a word can't
-    # be written fully, a 'hyphen' is added.
-    # The rest of the word is written in the next line
-    # Eg: This is a sample text this word here GeeksF-
-    # orGeeks is half on first line, remaining on next.
-    # To remove this, we replace every '-\n' to ''.
-    text = text.replace('-\n', '')
-
-    # Finally, write the processed text to the file.
-    f.write(text)
-
-# Close the file after writing all the text.
-f.close()
+for filename in glob.glob('../../DataConverted/*.txt'):
+    if os.path.getsize(filename) == 0:
+        PDF_file = '../../Data/{0}pdf'.format(re.search(r'\\.*\.', filename).group(0)[1:])
+        f = open(filename, 'a')
+        for img in _convert_pdf2jpg(PDF_file):
+            txt = tool.image_to_string(img, lang=lang, builder=pyocr.builders.TextBuilder())
+            f.write(txt)
+        f.close()
