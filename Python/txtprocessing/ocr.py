@@ -30,7 +30,7 @@ def _convert_pdf2jpg(in_file_path: str, resolution: int = 300) -> Pimage:
 for filename in glob.glob('../../DataConverted/*.txt'):
     if os.path.getsize(filename) == 0:
         PDF_file = '../../Data/{0}pdf'.format(re.search(r'\\.*\.', filename).group(0)[1:])
-        f = open(filename, 'a')
+        f = open(filename, 'a', encoding='utf-8')
         for img in _convert_pdf2jpg(PDF_file):
             txt = tool.image_to_string(img, lang=lang, builder=pyocr.builders.TextBuilder())
             f.write(txt)

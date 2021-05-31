@@ -8,7 +8,7 @@ with open('Data.csv', 'w', newline='') as file:
     writer.writerow(["PERATURAN", "BAB", "PASAL"])
     for filename in glob.glob('../../DataConverted/*.txt'):
         with open(filename, 'rb') as f:
-            data = ' '.join([x.decode('utf-8',errors='ignore').strip() for x in f.readlines()])
+            data = ' '.join([x.decode('utf-8').strip() for x in f.readlines()])
             splitBAB = re.split(r'\bBAB\b', data)
             realFileName = re.search(r'\\.*\.', filename).group(0)[1:]
             for i in range(len(splitBAB)):
