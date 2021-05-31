@@ -11,16 +11,10 @@ import re
 import numpy as np
 
 with open('MergedData.txt', 'rb') as f:
-    data = ''.join([x.decode('utf8') for x in f.readlines()])
-    print(data)
-    corpus = data.lower().split("\r\n")
-    corpus = [re.sub('\d', '', y) for y in corpus]
-    tokenizer = Tokenizer()
-    tokenizer.fit_on_texts(corpus)
-    total_words = len(tokenizer.word_index) + 1
-    print(total_words)
-    var = tokenizer.word_index
-    print(var)
+    data = ''.join([x.decode('utf8')for x in f.readlines()])
+    corpus = data.lower().split('\n')
+    print(corpus)
+
 """
 target = input("keyword: ")
 with open("temp.txt", encoding='utf8') as openfile:
