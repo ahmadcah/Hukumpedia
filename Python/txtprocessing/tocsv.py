@@ -11,6 +11,7 @@ with open('Data.csv', 'w+', newline='',encoding='utf-8') as file:
         print('index: '+str(i))
         with open(filename, 'rb') as f:
             realFileName = re.search(r'\\.*\.', filename).group(0)[1:]
+            realFileName = re.sub(r'\\.', '',realFileName)
             data = ''.join([x.decode('utf-8', errors='ignore') for x in f.readlines()])
             writer.writerow([realFileName, data])
             """
